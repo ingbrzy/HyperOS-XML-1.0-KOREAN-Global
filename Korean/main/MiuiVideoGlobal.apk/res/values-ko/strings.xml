@@ -134,7 +134,6 @@
     <string name="cast_forward">앞으로</string>
     <string name="cast_forward_10">10초 앞으로</string>
     <string name="cast_forward_30">30초 앞으로</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">실시간</string>
     <string name="cast_mute">음소거</string>
     <string name="cast_notification_connected_message">%1$s에 연결됨</string>
@@ -1014,7 +1013,6 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -1104,7 +1102,6 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="online_play_start_ready_loading_tip_kb">로드 중 %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">로드 중 %.2f MB/s</string>
     <string name="online_play_title">URL 입력</string>
-    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">최근 구독</string>
     <string name="order_recently_updated">최근 업데이트</string>
     <string name="out_of_memory_background_playback_is_suspended">메모리 부족으로 인해 백그라운드 재생 일시정지됨</string>
@@ -1496,7 +1493,6 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="sns_sign_in">기타 로그인 방식</string>
     <string name="source">"출처: "</string>
     <string name="start_download_tip">대기열에 추가되었습니다. 프로필 > 다운로드에서 진행 과정을 확인하십시오.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD 카드</string>
     <string name="storage_internal_sdcard">내부 저장소</string>
     <string name="submit">제출</string>

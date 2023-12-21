@@ -437,7 +437,6 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>

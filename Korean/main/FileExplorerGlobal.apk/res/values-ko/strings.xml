@@ -873,7 +873,6 @@
     <string name="set_pattern">비밀번호를 업그레이드하십시오</string>
     <string name="set_pattern_btn">설정</string>
     <string name="set_pattern_msg">비밀번호를 다시 설정하십시오. 개인 정보 보호 비밀번호는 사진, 메시지 및 메모에도 작동됩니다.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">%d GB 보다 작은 파일</string>
     <string name="size_lv2" formatted="false">%1d KB - %2d MB</string>
     <string name="size_lv3" formatted="false">%1d MB - %2d MB</string>

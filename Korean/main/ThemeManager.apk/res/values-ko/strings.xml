@@ -252,9 +252,7 @@
     <string name="exo_download_paused_for_wifi">다운로드를 위해 Wi-Fi 연결 대기 중</string>
     <string name="exo_download_removing">다운로드 항목 삭제 중</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2fMbps</string>
     <string name="exo_track_mono">모노</string>
-    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_role_alternate">대체</string>
     <string name="exo_track_role_closed_captions">자막</string>
     <string name="exo_track_role_commentary">논평</string>
@@ -394,7 +392,6 @@
     <string name="incompatible_dialog_ok">알겠습니다</string>
     <string name="incompatible_dialog_title">호환성 문제</string>
     <string name="is_setting_wallpaper_message">배경화면 설정중…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">알람</string>
     <string name="item_resource_audio_optional_color_ring">컬러링</string>
     <string name="item_resource_audio_optional_notification_ring">알림</string>
@@ -564,7 +561,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -833,7 +829,6 @@ mm"</string>
     <string name="resource_pack_price_info">원가: %1$s</string>
     <string name="resource_pack_warning">이미 이 테마의 구성 요소 중 %1$d을(를) 구입했습니다. 남은 구성 요소를 각각 구매하는 것이 더 저렴합니다.</string>
     <string name="resource_present">선물</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">무료</string>
     <string name="resource_price_unit"> Mi 크레딧</string>
     <string name="resource_purchase_common_error">오류 발생, 다시 시도하십시오</string>
@@ -971,7 +966,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">체감온도 %s°</string>
     <string name="special_topic">카테고리</string>
     <string name="start_all">모두 계속</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">적용</string>
     <string name="storage_file">다운로드된 항목 저장을 위해</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -1103,7 +1097,6 @@ mm"</string>
     <string name="theme_is_external_priority_storage">SD 카드에 저장</string>
     <string name="theme_is_external_priority_storage_summary">이 설정을 적용하기 위해 테마 앱이 바로 재시작될 것입니다.</string>
     <string name="theme_multiple_button_title_customize">사용자 설정</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">아니요</string>
     <string name="theme_on_the_phone_alert">통화 중에 재생할 수 없음</string>
     <string name="theme_recommend">유사한 테마</string>

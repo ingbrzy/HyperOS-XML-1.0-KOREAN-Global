@@ -922,7 +922,6 @@ ID:%s
     <string name="face_name_edit">편집</string>
     <string name="face_name_input">이름 입력</string>
     <string name="face_recommend">추천</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">Facebook 로그인</string>
     <string name="fail_hint">작업을 완료할 수 없습니다.</string>
     <string name="fail_reason_migrate">항목 처리 중… 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
@@ -938,7 +937,6 @@ ID:%s
     <string name="feedback_my_reports">피드백</string>
     <string name="feedback_problem">문제 보고</string>
     <string name="feedback_suggest">제안 제출</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">이 항목을 인쇄할 수 없음</string>
     <string name="file_cannot_screen_throw">이 항목을 캐스트할 수 없음</string>
     <string name="file_sending">파일 전송 중…</string>
@@ -1210,7 +1208,6 @@ ID:%s
     <string name="grant_permission_go_and_set">설정</string>
     <string name="grant_permission_go_and_set_2">설정</string>
     <string name="grant_permission_go_and_set_3">설정</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">권한 요구됨</string>
     <string name="grant_permission_manage_storage_unlock">기기의 잠금을 해제하시고 앱이 항목을 확인할 수 있도록 모든 파일에 대한 접근 권한을 허용하십시오.</string>
     <string name="grant_permission_shortcut">먼저 이 앱의 홈 화면 바로가기 생성 권한을 허용하십시오.</string>
@@ -2030,7 +2027,6 @@ ID:%s
     <string name="people_page_label">사람들</string>
     <string name="people_page_photo">인물 썸네일</string>
     <string name="people_page_unname">이름 없음</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">로그인 및 시스템 계정 관리를 위해</string>
     <string name="permission_account_name">계정 접근</string>
     <string name="permission_clipboard_desc">클립보드의 항목에 접근 및 저장을 위해</string>
@@ -2065,7 +2061,6 @@ ID:%s
     <string name="photo_editor_beautify_auto">자동</string>
     <string name="photo_editor_beauty_compare">원본</string>
     <string name="photo_editor_common_download_failed">플러그인 다운로드 실패, 네트워크 설정을 확인하시고 다시 시도하십시오.</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">플러그인 다운로드 성공</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">Wi-Fi에 연결되지 않은 것 같습니다. 모바일 데이터를 사용하여 플러그인 (%1$d MB)을 다운로드하시겠습니까?</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">플러그인 다운로드</string>
@@ -2152,7 +2147,6 @@ ID:%s
     <string name="photo_editor_talkback_crop_9_18">9:18</string>
     <string name="photo_editor_talkback_crop_free">자유</string>
     <string name="photo_editor_talkback_crop_mirror">거울</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">원본</string>
     <string name="photo_editor_talkback_crop_reset">초기화</string>
     <string name="photo_editor_talkback_crop_right_rotate">%d도 회전</string>
@@ -2482,18 +2476,13 @@ ID:%s
     <string name="screen_editor_btn_save">저장</string>
     <string name="screen_editor_btn_shell_off">기기 프레임 제거</string>
     <string name="screen_editor_btn_shell_on">기기 프레임 추가</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">기기 프레임으로 스크린샷을 잘라낼 수 없음</string>
     <string name="screen_editor_delete_dialog_msg">이 스크린샷을 삭제하시겠습니까?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">완료</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">잘라낸 스크린샷에 기기 프레임을 추가할 수 없음</string>
     <string name="screen_editor_shell_net_error">기기 프레임 다운로드를 위해 네트워크에 연결하십시오</string>
     <string name="screen_editor_shell_res_downloading">기기 프레임 다운로드 중…</string>
     <string name="screen_editor_shell_storage_insufficient">저장 공간 부족으로 기기 프레임을 다운로드할 수 없음</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">취소</string>
     <string name="screen_save_dialog_btn_delete">스크린샷 삭제</string>
     <string name="screen_save_dialog_btn_save">갤러리에 저장</string>
@@ -2658,7 +2647,6 @@ ID:%s
     <string name="share_album_cancel_share">공유 중지</string>
     <string name="share_album_change_background">백그라운드 사진 변경</string>
     <string name="share_album_create_failed">공유 사진 생성 실패</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">공유 중지</string>
     <string name="share_album_exit_confirm">계속하시면 이 앨범에 대한 모든 접근 권한을 사용할 수 없게 됩니다. 나가시기 전 모든 중요 항목을 저장하십시오.</string>
     <string name="share_album_exit_confirm_title">이 그룹에서 나가시겠습니까?</string>
@@ -2745,7 +2733,6 @@ ID:%s
     <string name="share_with_family">가족과 공유</string>
     <string name="sharer_quota_fulfiled">이 앨범을 이미 많은 사람들과 공유하고 있습니다.</string>
     <string name="show_cloud_albumlist_summary">동기화를 끄시면 선택된 앨범의 새 항목을 클라우드로 업로드하지 않을 것입니다.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">숨겨진 앨범 확인 및 관리</string>
     <string name="show_hidden_album_title">숨겨진 앨범 확인</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">제거 성공. \"앨범\"에서 항목을 확인하실 수 있습니다.</string>

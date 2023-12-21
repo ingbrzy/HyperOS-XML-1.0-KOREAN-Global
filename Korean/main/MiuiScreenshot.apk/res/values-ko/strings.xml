@@ -364,17 +364,12 @@
     <string name="screen_editor_btn_save">저장</string>
     <string name="screen_editor_btn_shell_off">기기 프레임 제거</string>
     <string name="screen_editor_btn_shell_on">기기 프레임 추가</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">이 스크린샷을 삭제하시겠습니까?</string>
     <string name="screen_editor_delete_dialog_picture_msg">이 이미지를 삭제하시겠습니까?</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">완료</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">잘라낸 스크린샷에 기기 프레임을 추가할 수 없음</string>
     <string name="screen_editor_shell_net_error">기기 프레임 다운로드를 위해 네트워크에 연결하십시오</string>
     <string name="screen_editor_shell_res_downloading">기기 프레임 다운로드 중…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">취소</string>
     <string name="screen_save_dialog_btn_delete">스크린샷 삭제</string>
     <string name="screen_save_dialog_btn_save">갤러리에 저장</string>
