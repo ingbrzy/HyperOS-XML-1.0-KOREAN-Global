@@ -58,7 +58,6 @@
     <string name="dual_app_title">듀얼 앱</string>
     <string name="dual_app_words">모든 계정에 자체 개별 앱 제공</string>
     <string name="early_morning">아침</string>
-    <string name="empty">" "</string>
     <string name="eras_ad">서기</string>
     <string name="eras_bc">기원전</string>
     <string name="evening">오후</string>
@@ -376,7 +375,6 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">일요일</string>
     <string name="sunday_short">일</string>

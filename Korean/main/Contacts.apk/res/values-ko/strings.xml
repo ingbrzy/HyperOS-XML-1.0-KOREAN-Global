@@ -474,7 +474,6 @@
     <string name="friday">금요일</string>
     <string name="friday_short">금</string>
     <string name="friday_shortest">금</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">이름</string>
     <string name="gallery">갤러리</string>
     <string name="ghostData_company">회사</string>
@@ -608,7 +607,6 @@
     <string name="menu_sync_remove">동기화 그룹 삭제</string>
     <string name="midnight">야간</string>
     <string name="miprofile_account_type">연락 카드</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">프로필 편집</string>
     <string name="miprofile_name">내 프로필</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -774,7 +772,6 @@
     <string name="permission_retry_dialog_msg_pad">기기 SIM 카드 정보 획득 및 연락처 관리를 위해, 앱의 연락처 접근 및 편집, 기기 정보 접근 권한을 허용하십시오.</string>
     <string name="permission_retry_setting">설정</string>
     <string name="phoneLabelsGroup">전화</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">번호가 너무 깁니다.</string>
     <string name="phone_primary">1차</string>
     <string name="photoPickerNotFoundText">기기에 사용 가능한 사진이 없습니다.</string>
@@ -1006,7 +1003,6 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">그룹 멤버 없음</string>
     <string name="six_letter">MNO</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">회사</string>
     <string name="smart_group_company_unavailable">회사 정보 없음</string>
     <string name="smart_group_frequency_1">지난 달 이내</string>
@@ -1048,7 +1044,6 @@
     <string name="starred_contacts">즐겨찾기</string>
     <string name="status_available">사용 가능</string>
     <string name="status_away">멀리 떨어짐</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">바쁨</string>
     <string name="strequentList">즐겨찾기</string>
     <string name="success_message_import_from_account">연락처 가져옴</string>

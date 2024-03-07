@@ -396,7 +396,6 @@ ID:%s
     <string name="sns_access_token_expired_warning">세션 만료됨, 계정에 연결하시려면 다시 로그인하십시오.</string>
     <string name="sns_bind_limit">너무 많은 시도입니다. 다른 방식으로 로그인하십시오.</string>
     <string name="sns_sign_in">기타 로그인 방식</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sunday">일요일</string>
     <string name="sunday_short">일</string>
     <string name="sunday_shortest">일</string>

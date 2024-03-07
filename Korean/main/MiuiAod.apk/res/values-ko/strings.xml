@@ -553,7 +553,6 @@ mm"</string>
     <string name="somatosensory_temperature_format">체감온도 %s°</string>
     <string name="standard_clock_panel">표준</string>
     <string name="standard_style">표준</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_component_info_active_tip">걸음수 카운트는 Xiaomi 건강에서 제공됩니다. 설치하시거나 Xiaomi 건강의 이용 약관에 동의하여 계속하십시오.</string>
     <string name="step_component_info_desc">걸음수 카운트는 목표를 달성하면 트로피로 바뀝니다. 걸음수 카운트는 Xiaomi 건강에서 제공됩니다.</string>
     <string name="step_component_info_tip">걸음수 카운트는 Xiaomi 건강에서 제공됩니다. 설치하시거나 Xiaomi 건강을 업데이트하시고 이용 약관에 동의하여 계속하십시오.</string>

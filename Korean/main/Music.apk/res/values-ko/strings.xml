@@ -368,7 +368,6 @@
     <string name="download_method">다운로드</string>
     <string name="download_paused_in_power_save_mode">배터리 절약이 켜져있을 때 다운로드 일시정지</string>
     <string name="download_processing">다운로드 중…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">다운로드 품질</string>
     <string name="download_quality_summary">다운로드한 음악을 위한 추가 설정</string>
     <string name="download_song_quality_title">다운로드 음질 설정</string>
@@ -464,9 +463,7 @@
     <string name="exo_media_action_repeat_all_description">모두 반복</string>
     <string name="exo_media_action_repeat_off_description">반복 안함</string>
     <string name="exo_media_action_repeat_one_description">현재 미디어 반복</string>
-    <string name="exo_track_bitrate">%1$.2fMbps</string>
     <string name="exo_track_mono">모노</string>
-    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_role_alternate">대체</string>
     <string name="exo_track_role_closed_captions">자막</string>
     <string name="exo_track_role_commentary">논평</string>
@@ -884,7 +881,6 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -1245,7 +1241,6 @@
     <string name="privacy_authorize_revoking">권한 철회 중…</string>
     <string name="privacy_desc">개인 정보 보호 정책 (필수)</string>
     <string name="privacy_policy">개인 정보 보호 정책</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=ko_KR</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
 If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
@@ -1422,7 +1417,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="start_to_download">다운로드 중…</string>
     <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">새 버전 설치 중…</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">듀얼 앱 저장소</string>
     <string name="storage_space_permissions_for_display">기기 저장소 접근: 로컬 파일 스캔, 표시 및 재생을 위해</string>
     <string name="streamloadingtext">Connecting to %s</string>
@@ -1707,7 +1701,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">온라인 노래를 hungama에 동기화하시면 Xiaomi 계정을 사용하여 다른 기기에서 접근하실 수 있습니다.</string>
     <string name="upload_playlist_to_hungama_toast">온라인 노래가 hungama에 동기화될 것입니다</string>
     <string name="user_agreement">이용자 약관</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula/ko.html</string>
     <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">재생 목록</string>
     <string name="user_privacy_dialog_negative_text">취소</string>

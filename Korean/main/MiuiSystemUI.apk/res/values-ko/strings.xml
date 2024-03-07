@@ -1223,7 +1223,6 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="monitoring_description_personal_profile_named_vpn">개인 앱은 %1$s 앱을 통해 인터넷에 연결됩니다. VPN 제공업체가 이메일, 인터넷 사용 기록 등 내 네트워크 활동을 볼 수 있습니다.</string>
     <string name="monitoring_description_two_named_vpns">이 기기는 %1$s 및 %2$s 앱을 통해 인터넷에 연결됩니다. IT 관리자가 이메일, 인터넷 사용 기록 등 내 네트워크 활동을 볼 수 있습니다.</string>
     <string name="monitoring_description_vpn_settings">VPN 설정 열기</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s에서 이 기기와 연결된 데이터에 액세스하고 앱을 관리하며 기기 설정을 변경할 수 있습니다.
 
 궁금한 점이 있으면 %2$s에 문의하세요."</string>
@@ -1824,8 +1823,6 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="status_bar_clock_date_format_12">M월d일 E</string>
     <string name="status_bar_clock_date_time_format">M월d일 E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M월d일 E a h:mm</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">이더넷</string>
     <string name="status_bar_settings_auto_rotation">화면 자동 회전</string>
     <string name="status_bar_work">직장 프로필</string>

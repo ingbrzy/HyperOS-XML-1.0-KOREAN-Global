@@ -119,11 +119,6 @@
         <item>지나온 시간</item>
         <item>지난해 단체사진</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>이동</item>
-        <item>복사</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>1월</item>
         <item>2월</item>

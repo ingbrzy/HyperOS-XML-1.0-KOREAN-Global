@@ -235,7 +235,6 @@
     <string name="settings_guide_title">기타 설정이 필요하십니까?</string>
     <string name="show_badge_notifications">알림 배지</string>
     <string name="show_badge_notifications_short">배지</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_setting">상태 바</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_disable_float_notification">플로팅 알림 허용되지 않음</string>
