@@ -478,6 +478,7 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -537,6 +538,7 @@
     <string name="note_write_hint">쓰기 시작</string>
     <string name="notealert_enter">메모 열기</string>
     <string name="notealert_ok">무시</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">메모는 시스템 앱입니다. 제거하신 후에는 이 앱을 사용할 수 없게 됩니다.</string>
     <string name="notes_description_title">메모를 제거하시겠습니까?</string>
     <string name="notification_content_add_todo_from_other_app">새 업무가 추가되었습니다. 탭하여 확인하십시오.</string>
@@ -601,9 +603,9 @@
     <string name="permission_read_contact_desc">통화 중 생성한 메모를 연락처와 연관 시키기</string>
     <string name="permission_storage_desc_new_v12">메모에 이미지를 추가하고 메모를 이미지로 저장하기 위해</string>
     <string name="permission_storage_desc_pad_new_v12">메모에 이미지를 추가하고 메모를 이미지로 저장하기 위해</string>
-    <string name="permission_xiaoai_desc">&lt;Data>Mi AI는 음성 녹음 및 기기 ID를 수집하여 오디오를 녹음하고 음성 메모를 생성합니다. &lt;a href=\"%1$s\">개인 정보 보호 정책&lt;/a>에서 더 알아보실 수 있습니다.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_m">&lt;Data>텍스트 음성 변환 서비스를 제공해드리기 위해, Mi AI는 임의로 생성되는 오디오 입력 및 기기 IMEI에 대한 수집이 필요합니다. 계속하시기 전, 저희의 &lt;a href=\"%1$s\">메모 서드파티 데이터 공유 성명&lt;/a>을 읽고 동의해 주십시오. 더 알아보시려면 Mi AI &lt;a href=\"%2$s\">개인 정보 보호 정책&lt;/a>을 읽어보십시오.&lt;/Data></string>
-    <string name="permission_xiaoai_desc_new">&lt;Data>텍스트 음성 변환 서비스를 제공해드리기 위해, Mi AI는 임의로 생성되는 오디오 입력 및 기기 ID에 대한 수집이 필요합니다. 계속하시기 전, 저희의 &lt;a href=\"%1$s\">메모 서드파티 데이터 공유 성명&lt;/a>을 읽고 동의해 주십시오. 더 알아보시려면 Mi AI &lt;a href=\"%2$s\">개인 정보 보호 정책&lt;/a>을 읽어보십시오.&lt;/Data></string>
+    <string name="permission_xiaoai_desc"><Data>Mi AI는 음성 녹음 및 기기 ID를 수집하여 오디오를 녹음하고 음성 메모를 생성합니다. &lt;a href=\"%1$s\">개인 정보 보호 정책&lt;/a>에서 더 알아보실 수 있습니다.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>텍스트 음성 변환 서비스를 제공해드리기 위해, Mi AI는 임의로 생성되는 오디오 입력 및 기기 IMEI에 대한 수집이 필요합니다. 계속하시기 전, 저희의 &lt;a href=\"%1$s\">메모 서드파티 데이터 공유 성명&lt;/a>을 읽고 동의해 주십시오. 더 알아보시려면 Mi AI &lt;a href=\"%2$s\">개인 정보 보호 정책&lt;/a>을 읽어보십시오.</Data></string>
+    <string name="permission_xiaoai_desc_new"><Data>텍스트 음성 변환 서비스를 제공해드리기 위해, Mi AI는 임의로 생성되는 오디오 입력 및 기기 ID에 대한 수집이 필요합니다. 계속하시기 전, 저희의 &lt;a href=\"%1$s\">메모 서드파티 데이터 공유 성명&lt;/a>을 읽고 동의해 주십시오. 더 알아보시려면 Mi AI &lt;a href=\"%2$s\">개인 정보 보호 정책&lt;/a>을 읽어보십시오.</Data></string>
     <string name="permission_xiaoai_title">텍스트 음성 변환</string>
     <string name="permlab_accessNote">메모에 접근</string>
     <string name="pm">오후</string>
@@ -797,6 +799,7 @@
     <string name="time_picker_dialog_title">시간 설정</string>
     <string name="time_picker_label_hour">시</string>
     <string name="time_picker_label_minute">분</string>
+    <string name="to_view_alarm_content">탭하여 보기</string>
     <string name="toast_cancel_to_insert_image">이미지 추가 실패</string>
     <string name="toast_excerpt_end">발췌문 생성 성공</string>
     <string name="toast_excerpt_no_content">여기에 발췌문 없음</string>
@@ -896,6 +899,7 @@ SD 카드의 콘텐츠를 읽을 수 있도록 메모의 권한을 허용하십�
     <string name="v7_preference_off">사용 안함</string>
     <string name="v7_preference_on">사용</string>
     <string name="view_all_notes">전체 보기</string>
+    <string name="warn_cannot_add_more_content">메모가 최대 글자수 제한에 도달했습니다. 내용을 더 추가하셔도 저장되지 않습니다.</string>
     <string name="warn_cannot_add_new_bullet">메모가 너무 길어 새 번호 매기기 목록을 추가할 수 없습니다</string>
     <string name="warn_cannot_add_new_checkbox">메모가 너무 길어 새 확인란을 추가할 수 없습니다</string>
     <string name="warn_cannot_add_new_content">메모가 너무 길어 새로운 콘텐츠를 추가할 수 없습니다</string>

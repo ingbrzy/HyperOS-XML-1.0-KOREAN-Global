@@ -231,9 +231,6 @@
     <plurals name="photo_count_format">
         <item quantity="other">총 %1$d개 항목</item>
     </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">%d도 회전</item>
-    </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d일</item>
     </plurals>
@@ -433,7 +430,7 @@
         <item quantity="other">%d개 동영상</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">%d개 사진과 동영상을 백업하지 못했습니다</item>
+        <item quantity="other">%d개 항목 동기화되지 않음</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d개 항목은 파일 크기가 너무 커서 백업할 수 없음</item>

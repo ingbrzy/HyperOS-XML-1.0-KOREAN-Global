@@ -438,6 +438,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">기본 공간</string>
     <string name="other_device_second_space">보조 공간</string>
     <string name="page_title_more_backup_options">추가 백업 서비스</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">PC 모드에서 항목을 복구할 수 없습니다. PC 모드를 끄시고 다시 시도하십시오.</string>
     <string name="permission_to_use">권한 세부사항</string>
     <string name="pm">오후</string>
@@ -449,6 +451,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">연결 실패</string>
     <string name="provision_next">다음</string>
     <string name="provision_restore_data">항목 복구</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">건너뛰기</string>
     <string name="query_restore_description">홈 화면 레이아웃 및 설정을 복구하시는 경우, 이미 설치된 앱은 홈 화면의 원래 위치로 복구됩니다. 백업에 포함되지 않은 앱은 홈 화면의 마지막 페이지로 이동될 것입니다.</string>
     <string name="query_restore_summary">이 기기를 위한 Xiaomi Cloud 백업 파일을 찾았습니다. 홈 화면 앱과 설정을 복구하거나 새로운 기기를 이용하여 이전 Xiaomi Cloud 백업을 삭제하시겠습니까?</string>

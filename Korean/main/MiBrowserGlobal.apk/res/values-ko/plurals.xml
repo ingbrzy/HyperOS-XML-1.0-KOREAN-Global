@@ -240,4 +240,7 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s회</item>
     </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">지난 주 Mi 브라우저는 사용자를 위해 웹페이지 로딩 속도를 %d배 높였습니다!</item>
+    </plurals>
 </resources>

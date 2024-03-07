@@ -15,8 +15,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>계정</item>
-        <item>서드파티 계정 추가 및 관리</item>
-        <item>계정;SNS;WeChat;QQ;Mi 계정;계정;Xiaomi 계정</item>
+        <item>연결된 WeChat 및 기타 SNS 계정 보기</item>
+        <item>권한;SNS;WeChat;Xiaomi 계정;계정</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>비밀번호 변경</item>

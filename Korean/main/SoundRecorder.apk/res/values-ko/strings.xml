@@ -206,11 +206,13 @@
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
     <string name="miuix_appcompat_select_all_description">전체 선택</string>
     <string name="miuix_appcompat_select_item">항목 선택</string>
+    <string name="miuix_item_view_role_description">탭</string>
     <string name="miuix_navigator_content_switch_description">사이드바 표시</string>
     <string name="miuix_navigator_multiple_choice">선택</string>
     <string name="miuix_navigator_navigator_switch_description">사이드바 숨기기</string>
@@ -269,6 +271,7 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -338,8 +341,8 @@
     <string name="permission_desc">권한 세부사항</string>
     <string name="permission_dialog_cancel">취소</string>
     <string name="permission_dialog_ok">설정</string>
-    <string name="permission_notification_description">녹음, 재생 및 콘텐츠 다운로드에 대한 알림을 전송하기 위해</string>
-    <string name="permission_notification_dialog_description">앱의 현재 상태에 대한 알림을 전송하기 위해</string>
+    <string name="permission_notification_description">이 앱은 콘텐츠를 녹음, 재생 및 다운로드할 시 알림을 전송할 수 있는 권한이 필요합니다.</string>
+    <string name="permission_notification_dialog_description">이 앱은 현재 상태에 대한 경고를 보낼 수 있도록 알림 전송 권한이 필요합니다.</string>
     <string name="permission_notification_title">권한 요구됨</string>
     <string name="permission_read_phone_state">기기 정보 접근</string>
     <string name="permission_read_phone_state_description">통화 수신 시 자동으로 녹음을 중지하기 위한 통화 상태 접근을 위해</string>
@@ -556,6 +559,7 @@
     <string name="toast_enter_silent_mode">녹음 중입니다. 무음 모드가 켜졌습니다.</string>
     <string name="toast_exit_silent_mode">녹음이 완료되었습니다. 무음 모드가 꺼졌습니다.</string>
     <string name="toast_max_record_time">%1$s, 약 %2$s 녹음할 수 있음</string>
+    <string name="toast_stop">녹음 완료</string>
     <string name="toast_uninstall_fileexplorer">파일 관리자가 설치되어 있지 않음</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>

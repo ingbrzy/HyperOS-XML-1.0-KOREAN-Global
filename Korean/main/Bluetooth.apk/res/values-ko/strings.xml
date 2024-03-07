@@ -272,7 +272,9 @@
     <string name="opp_notification_group">블루투스 공유</string>
     <string name="outbound_history_title">발신 전송</string>
     <string name="outbound_noti_title">블루투스 공유: 파일 보냄</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">%1$s 연결 수락 제한 시간이 초과되었습니다.</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">%1$s에 세션 키 입력 제한 시간이 초과되었습니다.</string>
     <string name="pbap_notification_group">블루투스 연락처 공유</string>
     <string name="pbap_session_key_dialog_header">블루투스 세션 키 요청</string>

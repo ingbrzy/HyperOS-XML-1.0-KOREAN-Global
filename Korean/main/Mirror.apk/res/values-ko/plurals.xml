@@ -27,6 +27,15 @@
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d분 전</item>
     </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">%1$s 포함, %2$d개 파일 거부됨</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">%1$s 포함, %2$d개 파일 수신됨</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%1$s 포함, %2$d개 파일</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30분 전</item>
     </plurals>

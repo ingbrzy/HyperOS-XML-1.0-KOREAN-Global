@@ -256,6 +256,7 @@
     <string name="fingerprint_double_tap">지문 센서 더블 탭</string>
     <string name="fingerprint_number_upper_limit">너무 많은 시도를 실패하셨습니다.</string>
     <string name="fingerprint_removal_failed">지문 삭제 실패</string>
+    <string name="flip_expand_screen_partial_screen_shot_disable">내부 화면에서만 지원됨</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d일</string>
@@ -480,6 +481,8 @@
     <string name="launch_accessibility_environmental_speech_recognition">주변 소리 인식</string>
     <string name="launch_accessibility_hear_sound">Mi Ditto</string>
     <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto 자막</string>
+    <string name="launch_accessibility_live_subtitles">스마트 자막</string>
+    <string name="launch_accessibility_live_subtitles_full_screen">전체화면 스마트 자막</string>
     <string name="launch_accessibility_talkback">TalkBack</string>
     <string name="launch_accessibility_voice_control">음성 제어</string>
     <string name="launch_ai_shortcut">Mi AI 바로가기</string>
@@ -559,6 +562,7 @@
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
@@ -884,6 +888,7 @@
     <string name="stylus_connect_fail_not_match_tablet">스타일러스가 태블릿에 호환되지 않음</string>
     <string name="stylus_connect_fail_not_open_gps">네트워크에 연결할 수 없습니다. 위치 서비스를 켜고 다시 시도하십시오.</string>
     <string name="stylus_connecting">연결 중…</string>
+    <string name="stylus_dislocation_summary">여기에 스타일러스 배치</string>
     <string name="stylus_focus_welcome">Xiaomi 포커스펜 소개</string>
     <string name="stylus_function_and_action">기능</string>
     <string name="stylus_function_summary">기능</string>

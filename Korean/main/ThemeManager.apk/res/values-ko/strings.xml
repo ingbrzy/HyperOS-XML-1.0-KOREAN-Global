@@ -46,6 +46,7 @@
     <string name="actionbar_button_up_description">뒤로</string>
     <string name="ad_app_download_start">다운로드 시작 중…</string>
     <string name="ad_app_is_downloading">다운로드 중…</string>
+    <string name="ad_flag_text">광고</string>
     <string name="ad_service">광고 표시</string>
     <string name="add_resource_detail_fail">리소스 추가 실패</string>
     <string name="add_ringtone">벨소리 추가</string>
@@ -252,7 +253,9 @@
     <string name="exo_download_paused_for_wifi">다운로드를 위해 Wi-Fi 연결 대기 중</string>
     <string name="exo_download_removing">다운로드 항목 삭제 중</string>
     <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2fMbps</string>
     <string name="exo_track_mono">모노</string>
+    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_role_alternate">대체</string>
     <string name="exo_track_role_closed_captions">자막</string>
     <string name="exo_track_role_commentary">논평</string>
@@ -271,6 +274,7 @@
     <string name="expect_more">업데이트를 기대해 주십시오!</string>
     <string name="explore_new_and_popular_themes">새롭고 인기 있는 테마 탐색</string>
     <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
+    <string name="external_wallpaper">외부 화면 배경화면</string>
     <string name="extreme_mode_dialog_message">이 기능은 익스트림 모드에서는 사용할 수 없습니다. 사용을 원하시면 먼저 익스트림 모드를 꺼주십시오.</string>
     <string name="extreme_mode_dialog_ok">알겠습니다</string>
     <string name="extreme_mode_dialog_title">경고</string>
@@ -392,6 +396,7 @@
     <string name="incompatible_dialog_ok">알겠습니다</string>
     <string name="incompatible_dialog_title">호환성 문제</string>
     <string name="is_setting_wallpaper_message">배경화면 설정중…</string>
+    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">알람</string>
     <string name="item_resource_audio_optional_color_ring">컬러링</string>
     <string name="item_resource_audio_optional_notification_ring">알림</string>
@@ -561,6 +566,7 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -659,7 +665,7 @@ mm"</string>
     <string name="payment_coins_balance">(잔액: %1s)</string>
     <string name="payment_coins_insufficient_balance">(잔액 부족)</string>
     <string name="payment_data_move_tips">귀하의 계정 데이터는 해당 지역의 개인 정보 보호 규정을 준수하기 위해 서버로 병합될 것입니다. 병합 과정 중에 데이터 손실의 위험이 있습니다.</string>
-    <string name="payment_instructions">&lt;Data>결제를 완료하시면 &lt;a href=\"%1$s\">인앱 구매 공지&lt;/a>에 동의하시는 것으로 간주됩니다.&lt;/Data></string>
+    <string name="payment_instructions"><Data>결제를 완료하시면 &lt;a href=\"%1$s\">인앱 구매 공지&lt;/a>에 동의하시는 것으로 간주됩니다.</Data></string>
     <string name="payment_method">결제 방식</string>
     <string name="permission_desc">저장된 테마 및 기타 항목 저장을 위해</string>
     <string name="permission_pop_desc">맞춤형 설정을 변경하고 다운로드한 항목을 저장하기 위해, 먼저 테마 앱의 저장소 접근 권한을 허용하십시오.</string>
@@ -829,6 +835,7 @@ mm"</string>
     <string name="resource_pack_price_info">원가: %1$s</string>
     <string name="resource_pack_warning">이미 이 테마의 구성 요소 중 %1$d을(를) 구입했습니다. 남은 구성 요소를 각각 구매하는 것이 더 저렴합니다.</string>
     <string name="resource_present">선물</string>
+    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">무료</string>
     <string name="resource_price_unit"> Mi 크레딧</string>
     <string name="resource_purchase_common_error">오류 발생, 다시 시도하십시오</string>
@@ -966,6 +973,7 @@ mm"</string>
     <string name="somatosensory_temperature_format">체감온도 %s°</string>
     <string name="special_topic">카테고리</string>
     <string name="start_all">모두 계속</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_apply">적용</string>
     <string name="storage_file">다운로드된 항목 저장을 위해</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -992,6 +1000,7 @@ mm"</string>
     <string name="system_aod_dialog_title">Always On Display</string>
     <string name="system_phone">통화</string>
     <string name="system_precust">사전설치</string>
+    <string name="text_play">플레이</string>
     <string name="the_anniversary_of_lifting_martial_law">계엄 해방일</string>
     <string name="the_anti_aggression_day">반침략일</string>
     <string name="the_arbor_day">식목일</string>
@@ -1097,6 +1106,7 @@ mm"</string>
     <string name="theme_is_external_priority_storage">SD 카드에 저장</string>
     <string name="theme_is_external_priority_storage_summary">이 설정을 적용하기 위해 테마 앱이 바로 재시작될 것입니다.</string>
     <string name="theme_multiple_button_title_customize">사용자 설정</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_no">아니요</string>
     <string name="theme_on_the_phone_alert">통화 중에 재생할 수 없음</string>
     <string name="theme_recommend">유사한 테마</string>
@@ -1117,6 +1127,7 @@ mm"</string>
     <string name="themes_has_an_updated_version">새 버전의 테마 사용 가능</string>
     <string name="themes_might_like">좋아하실 것 같은 테마</string>
     <string name="third_party_pickers_activity_title">%1$s 추가</string>
+    <string name="third_privacy_policies">서드파티 개인 정보 보호 정책</string>
     <string name="thursday">목요일</string>
     <string name="thursday_short">목</string>
     <string name="thursday_shortest">목</string>
@@ -1169,14 +1180,15 @@ mm"</string>
     <string name="update_push_content">지금 업데이트</string>
     <string name="update_push_title">테마에 사용 가능한 새 버전이 있음</string>
     <string name="update_title">새 업데이트 사용 가능</string>
+    <string name="used_wallpaper">이전에 사용됨</string>
     <string name="user_agree">동의</string>
     <string name="user_attention_new_theme">%s의 새로운 콘텐츠</string>
     <string name="user_authorization_dialog_agree">동의</string>
     <string name="user_authorization_dialog_agree_a">동의</string>
     <string name="user_authorization_dialog_disagree">나가기</string>
-    <string name="user_authorization_dialog_message">"&lt;Data>기본적인 서비스 제공을 위해 필요한 개인 정보에 대한 수집이 요구됩니다. 저희의 &lt;a href=\"%1$s\">개인 정보 보호 정책&lt;/a>에서 저희가 정보를 수집 및 처리하는 방법을 알아보실 수 있습니다. 테마를 사용하시기 전, &lt;a href=\"%2$s\">이용자 약관&lt;/a> 및 &lt;a href=\"%3$s\">개인 정보 보호 정책&lt;/a>을 읽고 동의하십시오.
-언제든지 설정에서 개인 정보 보호 정책에 대한 동의를 철회하실 수 있습니다.&lt;/Data>"</string>
-    <string name="user_authorization_dialog_message_a">&lt;Data>계속하시기 전, 저희의 &lt;a href=\"%1$s\">이용자 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인 정보 보호 정책&lt;/a>에 동의하십시오. 언제든지 설정에서 선택 사항을 변경하실 수 있습니다.&lt;/Data></string>
+    <string name="user_authorization_dialog_message"><Data>"기본적인 서비스 제공을 위해 필요한 개인 정보에 대한 수집이 요구됩니다. 저희의 &lt;a href=\"%1$s\">개인 정보 보호 정책&lt;/a>에서 저희가 정보를 수집 및 처리하는 방법을 알아보실 수 있습니다. 테마를 사용하시기 전, &lt;a href=\"%2$s\">이용자 약관&lt;/a> 및 &lt;a href=\"%3$s\">개인 정보 보호 정책&lt;/a>을 읽고 동의하십시오.
+언제든지 설정에서 개인 정보 보호 정책에 대한 동의를 철회하실 수 있습니다."</Data></string>
+    <string name="user_authorization_dialog_message_a"><Data>계속하시기 전, 저희의 &lt;a href=\"%1$s\">이용자 약관&lt;/a> 및 &lt;a href=\"%2$s\">개인 정보 보호 정책&lt;/a>에 동의하십시오. 언제든지 설정에서 선택 사항을 변경하실 수 있습니다.</Data></string>
     <string name="user_authorization_dialog_title">이용 약관</string>
     <string name="user_know">알겠습니다</string>
     <string name="using_theme_has_update_tips">이 테마의 업데이트가 있습니다.</string>
@@ -1225,6 +1237,11 @@ mm"</string>
     <string name="wallpaper_settings_no_history">기록 없음</string>
     <string name="wallpaper_settings_pad_more_page_title">더 많은 배경화면</string>
     <string name="wallpaper_settings_page_title">배경화면</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">설정</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">적용</string>
+    <string name="warning_miui_optimization_closed_dialog_message">MIUI 최적화를 켜지 않으신 것 같습니다. 해당 설정 없이는 테마를 적용 시에 제대로 작동하지 않을 수 있습니다. 그래도 바로 적용하시거나 설정을 통해 MIUI 최적화를 켜실 수 있습니다.</string>
+    <string name="warning_miui_optimization_closed_dialog_message2">시스템 최적화를 켜지 않으신 것 같습니다. 해당 설정 없이는 테마를 적용 시에 제대로 작동하지 않을 수 있습니다. 그래도 바로 적용하시거나 설정을 통해 시스템 최적화를 켜실 수 있습니다.</string>
+    <string name="warning_miui_optimization_closed_dialog_title">참고</string>
     <string name="watermark_label_prefix">AdMob -</string>
     <string name="weather_no_data">날씨 데이터 없음</string>
     <string name="wednesday">수요일</string>

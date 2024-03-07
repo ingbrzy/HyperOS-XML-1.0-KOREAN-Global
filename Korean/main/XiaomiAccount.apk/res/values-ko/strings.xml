@@ -31,6 +31,7 @@
     <string name="about_mi_account">Xiaomi 계정 정보</string>
     <string name="accept">허용</string>
     <string name="account_and_password">비밀번호</string>
+    <string name="account_auth_failed_message">Xiaomi 계정 %1$s의 로그인 자격 증명이 만료되었습니다. 다시 시도하십시오.</string>
     <string name="account_bind_devices">기기</string>
     <string name="account_bind_secure_email_title">이메일 추가</string>
     <string name="account_bind_secure_phone_title">전화번호 추가</string>
@@ -219,6 +220,23 @@
     <string name="failed_dup_secure_phone_number">이 전화번호는 이미 다른 Xiaomi 계정과 연결되어 있습니다</string>
     <string name="family_service">가족 서비스</string>
     <string name="family_service_not_open">멤버 초대</string>
+    <string name="fido2_client_for_fingerprint_auth">탭하여 지문 인증</string>
+    <string name="fido2_close_fingerprint_auth">끄는 중</string>
+    <string name="fido2_close_fingerprint_auth_desc">지문 인증을 끄시겠습니까?</string>
+    <string name="fido2_err_already_registered">이 계정에서 이미 해당 기능이 켜져 있습니다</string>
+    <string name="fido2_err_def">오류 발생, 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
+    <string name="fido2_err_not_regisetered">이 계정에서 해당 기능이 켜져 있지 않습니다</string>
+    <string name="fido2_err_not_support">이 기능은 해당 기기에서 지원되지 않습니다</string>
+    <string name="fido2_err_security">보안 위험이 감지되었습니다. 이 기능을 사용할 수 없습니다.</string>
+    <string name="fido2_err_service_exception">서버 오류 발생, 1-2분 정도 기다리신 후 다시 시도해 주십시오.</string>
+    <string name="fido2_err_timeout">요청 시간 초과됨, 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
+    <string name="fido2_fingerprint_auth">지문 인증</string>
+    <string name="fido2_fingerprint_auth_desc">&lt;Data>지문을 사용하여 Xiaomi 계정에 로그인하고 신분을 인증합니다. &lt;a href=>더 알아보기&lt;/a>&lt;/Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">기기 지문이 변경되었습니다. 지문 인증을 켜시려면 계정을 다시 인증하십시오.</string>
+    <string name="fido2_fingerprint_verify">지문 인증</string>
+    <string name="fido2_psw_changed_and_afresh_register">비밀번호가 변경되었습니다. 지문을 다시 인증하십시오.</string>
+    <string name="fido2_setting_ps_notify">지문 인증을 사용하기 위해 계정 비밀번호를 설정하셔야 합니다. 설정 > Xiaomi 계정 > 계정 보안 > 비밀번호에서 설정하실 수 있습니다.</string>
+    <string name="fido2_verify_fingerprint">지문을 인증하십시오</string>
     <string name="find_device">기기 찾기</string>
     <string name="find_device_access_denied">상태를 가져올 수 없습니다. 접근이 거절되었습니다.</string>
     <string name="find_device_account_error">계정 오류로 상태를 가져올 수 없습니다.</string>
@@ -309,6 +327,7 @@
     <string name="get_identity_auth_url_failed">ID 확인 실패</string>
     <string name="get_phone_bind_exceed_limit">1개의 전화번호로 최대 %d개의 Xiaomi 계정을 연결할 수 있습니다. 새로운 계정을 추가할 수 없습니다.</string>
     <string name="get_phone_verifycode_exceed_limit">이 번호에 더 많은 인증 코드를 전송할 수 없습니다</string>
+    <string name="go_to_setting">설정</string>
     <string name="google">Google</string>
     <string name="google_login">Google 로그인</string>
     <string name="has_no_new_version">이미 최신 버전입니다</string>
@@ -329,6 +348,7 @@
     <string name="indeterminate">선택 또는 선택 해제되지 않음</string>
     <string name="input_email_address_notice">인증 코드를 포함하는 이메일을 제공하신 주소로 전송해 드릴 것입니다.</string>
     <string name="input_new_pwd">새 비밀번호 입력</string>
+    <string name="input_ps">비밀번호 입력</string>
     <string name="io_error_title">네트워크를 확인하십시오</string>
     <string name="item_view_role_description">탭</string>
     <string name="just_a_second">잠시만 기다려주십시오…</string>
@@ -346,6 +366,7 @@
     <string name="login_notification_button_text">로그인</string>
     <string name="login_notification_desc">클라우드 서비스, 가족 저장 공간 및 더 많은 항목을 즐겨보십시오</string>
     <string name="login_notification_title">Xiaomi 계정에 로그인</string>
+    <string name="login_or_register_by_other_way">다른 방법 사용</string>
     <string name="login_with_other">더 많은 옵션</string>
     <string name="logout_account">로그아웃</string>
     <string name="logout_failed">로그아웃할 수 없습니다</string>
@@ -437,6 +458,7 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -836,6 +858,7 @@
     <string name="recycle_phone_notification_msg">전화번호가 철회된 것 같습니다. 탭하여 업데이트하십시오.</string>
     <string name="recycle_phone_notification_title">Xiaomi 계정 보안 위험</string>
     <string name="removing_account">로그아웃 중…</string>
+    <string name="reopen">켜기</string>
     <string name="request_open_permission">권한 요구됨</string>
     <string name="request_use_camera_message">Xiaomi 계정의 휴대전화 카메라 접근을 허용하시겠습니까?</string>
     <string name="request_use_camera_title">카메라 접근</string>
@@ -876,6 +899,7 @@
     <string name="send">전송</string>
     <string name="service_error">서비스 오류</string>
     <string name="set_success">변경 성공</string>
+    <string name="setting_ps">비밀번호 설정</string>
     <string name="sign_in">로그인 중</string>
     <string name="sim_card">SIM 카드</string>
     <string name="sim_changed_notification_msg">탭하여 복구 전화를 업데이트하고 계정을 더욱 안전하게 하십시오.</string>

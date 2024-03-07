@@ -221,6 +221,8 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="input_method_setting">키보드 선택</string>
     <string name="install_preinstall_app">앱 로드 중…</string>
     <string name="interconnection_communication_introduction">Xiaomi 인터넷 통신 서비스는 기타 Xiaomi 기기를 발견, 연결 및 통신할 수 있게 해줍니다.</string>
+    <string name="interconnection_service_global_item_title">Xiaomi 상호 연결</string>
+    <string name="interconnection_service_global_label">&lt;Data>Xiaomi 상호 연결을 통해 무선으로 기기 간 통신이 가능합니다. 스위치를 켜시면, 귀하는 Xiaomi 상호 연결의 &lt;a href=%1$s>개인 정보 보호 정책&lt;/a >에 동의하시는 것입니다.&lt;/Data></string>
     <string name="interconnection_service_summary_china">"小米互联互通为向您提供包括：影音互联、应用生态融合、文件系统、硬件协同和设备中心等跨设备互联互通场景的基础功能，需要联网并调用您设备的如下权限：
 \u0009\u0009互传：
 \u0009\u0009读写设备上的照片及文件
@@ -294,6 +296,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
 \u0009\u0009用于发送及接收传输的文件
 如果您不同意调用以上必要权限，将导致小米互联互通服务无法正常使用。
 因系统版本、设备型号存在差异，您当前所使用设备提供的小米互联互通服务可能不同，请参考官网%s获取更详细信息。"</string>
+    <string name="interconnection_service_summary_global">Xiaomi 상호 연결 기능은 기기 모델 및 시스템 버전에 따라 차이가 있을 수 있습니다. 자세한 내용은 시스템 공식 웹사이트를 참조하십시오.</string>
     <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
     <string name="item_contents_wwarning">기기를 분실하신 경우, 화면 잠금을 설정하지 않으시면 다른 사람이 기기를 사용하고 데이터에 접근하는 것을 방지할 수 없습니다. 그래도 건너뛰시겠습니까?</string>
     <string name="item_facerecognition">안면 인식 잠금해제</string>

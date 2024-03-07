@@ -68,7 +68,7 @@
     <string name="cta_agree_desc">해당 앱이 인터넷에 연결되도록 허용하고 위에 나열된 필수 접근권한을 부여하십시오.</string>
     <string name="cta_btn_agree">동의</string>
     <string name="cta_btn_disagree">동의하지 않음</string>
-    <string name="cta_main_purpose">스크린샷 편집기에 오신 것을 환영합니다! 이 앱을 사용하여 스크린샷을 자르고 편집하실 수 있습니다.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">Welcome to Screenshot Editor! You can use this app to crop and edit your screenshots. This app needs to connect to the internet and access audio and video files on your device to be able to provide necessary services.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">스크린샷 저장을 위해</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -170,6 +170,10 @@
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Lenovo</string>
     <string name="loading_text_format" formatted="false">사진에서 개인 정보 제거 중 (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">스크린샷 촬영 중…</string>
+    <string name="long_screenshot_content_loading">잠시만 기다려 주십시오…</string>
+    <string name="long_screenshot_content_manual">스크린샷의 끝점을 수동으로 조정한 후 \"완료\"를 탭하십시오.</string>
+    <string name="long_screenshot_done">완료</string>
     <string name="long_screenshot_error">오류 발생, 다시 시도하십시오.</string>
     <string name="long_screenshot_guide_text">"탭하여
 스크롤링 스크린샷"</string>
@@ -178,6 +182,7 @@
     <string name="long_screenshot_processing">처리 중…</string>
     <string name="long_screenshot_processing_description_accessibility">처리 중</string>
     <string name="long_screenshot_stop">완료</string>
+    <string name="long_screenshot_title">스크롤링 스크린샷</string>
     <string name="long_screenshot_top_msg">스크린샷 생성 중…</string>
     <string name="long_screenshot_top_msg_description_accessibility">스크린샷 생성 중</string>
     <string name="long_screenshot_top_msg_manual">스크린샷을 자르고 버튼을 탭해 완료하십시오</string>
@@ -209,6 +214,7 @@
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
@@ -364,12 +370,17 @@
     <string name="screen_editor_btn_save">저장</string>
     <string name="screen_editor_btn_shell_off">기기 프레임 제거</string>
     <string name="screen_editor_btn_shell_on">기기 프레임 추가</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">이 스크린샷을 삭제하시겠습니까?</string>
     <string name="screen_editor_delete_dialog_picture_msg">이 이미지를 삭제하시겠습니까?</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">완료</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">잘라낸 스크린샷에 기기 프레임을 추가할 수 없음</string>
     <string name="screen_editor_shell_net_error">기기 프레임 다운로드를 위해 네트워크에 연결하십시오</string>
     <string name="screen_editor_shell_res_downloading">기기 프레임 다운로드 중…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">취소</string>
     <string name="screen_save_dialog_btn_delete">스크린샷 삭제</string>
     <string name="screen_save_dialog_btn_save">갤러리에 저장</string>
@@ -397,6 +408,7 @@
     <string name="screenshot_long_screenshot">스크롤</string>
     <string name="screenshot_save">저장</string>
     <string name="screenshot_send">전송</string>
+    <string name="screenshot_succeed">스크린샷 촬영 성공</string>
     <string name="screenshot_thumbnail">스크린샷 썸네일</string>
     <string name="scroll_annotation">스크롤 및 주석 달기</string>
     <string name="scroll_annotation_btn_quit">주석 나가기</string>

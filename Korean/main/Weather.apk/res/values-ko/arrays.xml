@@ -2,11 +2,11 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>좋음</item>
+        <item>양호</item>
         <item>보통</item>
-        <item>민감한 그룹에 좋지 않음</item>
-        <item>나쁨</item>
-        <item>건강에 매우 나쁨</item>
         <item>유해</item>
+        <item>심각</item>
+        <item>위험</item>
     </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
@@ -34,11 +34,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>좋음</item>
-        <item>훌륭함</item>
-        <item>오염됨</item>
-        <item>안좋음</item>
-        <item>아주 안좋음</item>
-        <item>심각함</item>
+        <item>양호</item>
+        <item>보통</item>
+        <item>유해</item>
+        <item>심각</item>
+        <item>위험</item>
         <item>측정불가</item>
     </string-array>
     <string-array name="hot_city">
@@ -73,7 +73,7 @@
     <string-array name="realtime_humidity_status">
         <item>건조</item>
         <item>편안</item>
-        <item>습합</item>
+        <item>습함</item>
     </string-array>
     <string-array name="realtime_pressure_status">
         <item>높음</item>
@@ -94,28 +94,35 @@
         <item>매우 강함</item>
         <item>심각함</item>
     </string-array>
+    <string-array name="settings_atmospheric_pressure_unit_detail">
+        <item>@string/settings_atmospheric_pressure_hpa</item>
+        <item>@string/settings_atmospheric_pressure_mbar</item>
+        <item>@string/settings_atmospheric_pressure_mmhg</item>
+        <item>@string/settings_atmospheric_pressure_inhg</item>
+        <item>@string/settings_atmospheric_pressure_atm</item>
+    </string-array>
     <string-array name="weather_type">
         <item>맑음</item>
         <item>흐림</item>
         <item>아주 흐림</item>
-        <item>안개</item>
+        <item>엷은 안개</item>
         <item>강한 폭풍우</item>
         <item>호우</item>
         <item>폭풍우</item>
         <item>뇌우</item>
-        <item>비</item>
-        <item>폭우</item>
+        <item>소나기</item>
+        <item>강한 비</item>
         <item>비</item>
         <item>약한 비</item>
         <item>진눈깨비</item>
         <item>강한 눈보라</item>
-        <item>눈</item>
+        <item>소낙눈</item>
         <item>강한 눈</item>
         <item>눈</item>
         <item>약한 눈</item>
         <item>강한 모래폭풍</item>
         <item>모래폭풍</item>
-        <item>모래바람</item>
+        <item>약한 모래폭풍</item>
         <item>황사</item>
         <item>우박</item>
         <item>먼지</item>

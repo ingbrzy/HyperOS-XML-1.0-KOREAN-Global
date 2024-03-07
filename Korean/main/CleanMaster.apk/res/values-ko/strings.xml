@@ -304,6 +304,7 @@
     <string name="download">다운로드</string>
     <string name="downloading">다운로드중</string>
     <string name="early_morning">아침</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">비어있음</string>
     <string name="empty_content_no_privacy">비어있음</string>
     <string name="empty_content_no_similar_image">사진 없음</string>
@@ -491,6 +492,7 @@
     <string name="hints_garbage_cleanup_result_safe">모든 것이 양호합니다.</string>
     <string name="hints_garbage_handle_item_content">%1$d 항목, %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">비어있음</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">가끔 사용됨</string>
     <string name="hints_installed_app_near">최근 사용됨</string>
     <string name="hints_installed_app_never">사용되지 않음</string>

@@ -941,6 +941,7 @@ PIN을 입력하여 잠금을 해제하십시오."</string>
     <string name="keyguard_indication_trust_unlocked">TrustAgent가 잠금 해제함</string>
     <string name="keyguard_left_mi_wallet">Mi 지갑</string>
     <string name="keyguard_left_remotecentral">Mi 리모트</string>
+    <string name="keyguard_left_smarthome">Mi 홈</string>
     <string name="keyguard_left_torch">손전등</string>
     <string name="keyguard_left_view_lock_wallpaper">슬라이드형 배경화면</string>
     <string name="keyguard_loading_to_editor_tips">잠금화면 편집기 여는 중…</string>
@@ -1222,6 +1223,7 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="monitoring_description_personal_profile_named_vpn">개인 앱은 %1$s 앱을 통해 인터넷에 연결됩니다. VPN 제공업체가 이메일, 인터넷 사용 기록 등 내 네트워크 활동을 볼 수 있습니다.</string>
     <string name="monitoring_description_two_named_vpns">이 기기는 %1$s 및 %2$s 앱을 통해 인터넷에 연결됩니다. IT 관리자가 이메일, 인터넷 사용 기록 등 내 네트워크 활동을 볼 수 있습니다.</string>
     <string name="monitoring_description_vpn_settings">VPN 설정 열기</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s에서 이 기기와 연결된 데이터에 액세스하고 앱을 관리하며 기기 설정을 변경할 수 있습니다.
 
 궁금한 점이 있으면 %2$s에 문의하세요."</string>
@@ -1421,8 +1423,6 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>&lt;font color=#a5220e>\"삭제 &amp;amp; 초기화\"&lt;/font>를 선택하신 후 기기가 재부팅될 때까지 기다려주십시오.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
     <string name="phone_locked_string">이 기기는 잠겼습니다</string>
-    <string name="phone_locked_string_owner_user">기본 공간의 비밀번호 입력을 너무 많이 실패하셨습니다. 이 기기는 잠겼습니다.</string>
-    <string name="phone_locked_string_second_user">보조 공간의 비밀번호 입력을 너무 많이 실패하셨습니다. 이 기기는 잠겼습니다.</string>
     <string name="pip_close">닫기</string>
     <string name="pip_collapse">접기</string>
     <string name="pip_edu_text">제어 메뉴에 액세스하려면 <annotation icon="home_icon">홈</annotation>을 두 번 누르세요.</string>
@@ -1824,6 +1824,8 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="status_bar_clock_date_format_12">M월d일 E</string>
     <string name="status_bar_clock_date_time_format">M월d일 E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M월d일 E a h:mm</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">이더넷</string>
     <string name="status_bar_settings_auto_rotation">화면 자동 회전</string>
     <string name="status_bar_work">직장 프로필</string>

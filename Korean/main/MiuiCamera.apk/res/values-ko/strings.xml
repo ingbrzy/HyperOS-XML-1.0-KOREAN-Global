@@ -862,6 +862,7 @@
     <string name="edit_temple">관자놀이</string>
     <string name="edit_touch_up">메이크업</string>
     <string name="emoticon">스티커 팩</string>
+    <string name="empty" />
     <string name="eras_ad">서기</string>
     <string name="eras_bc">기원전</string>
     <string name="error_fail_to_start_audio_capture">오디오 캡처를 시작할 수 없음</string>
@@ -1592,6 +1593,7 @@ Ultra RAW 이미지는 %d비트 데이터를 저장하여 더욱 디테일하게
     <string name="pref_camera_auxiliary_close">꺼짐</string>
     <string name="pref_camera_auxiliary_exposure_feedback">노출 판단</string>
     <string name="pref_camera_auxiliary_focus_peak">초점 피킹</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">높음</string>
     <string name="pref_camera_beautify_entry_low">낮음</string>
     <string name="pref_camera_beautify_entry_normal">중간</string>

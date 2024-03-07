@@ -376,7 +376,7 @@
         <item quantity="other">%d 잔류 APK 삭제</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d개 배터리 사용량 문제</item>
+        <item quantity="other">높은 전력 소모를 동반하는 %d개 항목</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">배터리 절약을 위해 %d개 항목 최적화</item>
@@ -490,7 +490,7 @@
         <item quantity="other">회</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d개 배터리 사용량 문제</item>
+        <item quantity="other">높은 전력 소모를 동반하는 %d개 항목</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d 일 "</item>
@@ -514,7 +514,7 @@
         <item quantity="other">%d개 배터리 사용 문제 수정</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">%d개 배터리 사용 문제 수정 가능</item>
+        <item quantity="other">높은 전력 소모를 동반하는 %d개 항목 최적화 가능</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d개 항목 최적화 가능"</item>
@@ -554,6 +554,9 @@
     </plurals>
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">화면 시간을 %s분 추가하기 위해 켜기</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">알겠습니다 (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">알겠습니다 (%d초)</item>
@@ -625,7 +628,7 @@
         <item quantity="other">%d개 배터리 문제를 발견했습니다. 문제를 해결하십시오.</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">%d개 배터리 문제 해결됨</item>
+        <item quantity="other">높은 전력 소모를 동반하는 %d개 항목 최적화됨</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">공장초기화 (%d초)</item>
@@ -689,6 +692,9 @@
     </plurals>
     <plurals name="title_virus_clean">
         <item quantity="other">%d개 바이러스 정리됨</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d개의 바이러스 또는 위험 앱</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d개 앱</item>

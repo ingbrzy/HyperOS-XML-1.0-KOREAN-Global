@@ -184,6 +184,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">음력 캘린더</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="date_time_picker_dialog_title">날짜와 시간 설정</string>
     <string name="date_today">" (오늘)"</string>
     <string name="date_view">날짜</string>
