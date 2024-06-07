@@ -48,6 +48,39 @@
     <plurals name="age_year">
         <item quantity="other">%d년</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">앞에 %1d명 대기 중</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">대기 시간: %s시간</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">대기 시간: %s분</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">생성 중… | 대기 시간: %d초</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">생성 중… | 앞에 %d명 대기 중</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">대기 시간: %d분</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">생성 중… | %d초 남음</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s시간</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">한 명당 최대 %d장의 AI 이미지를 생성할 수 있습니다.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d분</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">사진 선택 중 (%d초 남음)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">%d명의 사람에게 공유됨</item>
     </plurals>
@@ -168,8 +201,17 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d개 사진은 렌더링에 실패하여 건너 뛰어졌습니다.</item>
     </plurals>
-    <plurals name="file_type_detail_count">
-        <item quantity="other">%1$d개 파일</item>
+    <plurals name="global_cloud_storage_warn_title_link">
+        <item quantity="other">클라우드 저장소 부족으로 %d개 항목을 백업할 수 없음</item>
+    </plurals>
+    <plurals name="global_sync_error_title">
+        <item quantity="other">%d개 항목 백업하지 않음</item>
+    </plurals>
+    <plurals name="global_syncing_gprs_title_link">
+        <item quantity="other">모바일 데이터를 사용하여 %d개 항목 백업 중…</item>
+    </plurals>
+    <plurals name="global_syncing_title_link">
+        <item quantity="other">%d개 항목 백업 중…</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30분 전</item>
@@ -259,7 +301,7 @@
         <item quantity="other">%d개 남은 파일 다운로드</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">%1$d장 사진을 다운로드할 수 없습니다. 네트워크 연결 후 다시 시도하십시오.</item>
+        <item quantity="other">%d개 파일을 다운로드할 수 없습니다. 네트워크 연결을 확인하시고 다시 시도하십시오.</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
         <item quantity="other">%1$d개 파일 (%2$d MB) 다운로드 실패, 네트워크에 연결 후 다시 시도하십시오.</item>
@@ -268,10 +310,10 @@
         <item quantity="other">%1$d개 파일 (%2$d MB)이 다운로드되지 않음, 모바일 데이터를 사용하여 다운로드하시겠습니까?</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">%1$d개 사진 다운로드 실패, 다시 시도하시겠습니까?</item>
+        <item quantity="other">%d개 파일을 다운로드할 수 없습니다. 다시 시도하시겠습니까?</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">%1$d개 사진 (%2$d MB) 다운로드 실패, 다시 시도하시겠습니까?</item>
+        <item quantity="other">%1$d개 파일 (%2$d MB) 다운로드 실패, 다시 시도하시겠습니까?</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">이 기기에 존재하지 않는 %d장의 사진을 건너뛰었습니다.</item>
@@ -297,83 +339,14 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">\"%2$s\"에서 %1$d장 사진이 제거되었습니다.</item>
     </plurals>
-    <plurals name="send_apk_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개 설치 파일 (%3$s)</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개 설치 패키지 (%3$s) 수신됨</item>
-    </plurals>
-    <plurals name="send_apk_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개 설치 패키지 (%3$s) 수신 중…</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s)</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s) 수신됨</item>
-    </plurals>
-    <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개 오디오 파일 (%3$s) 수신 중…</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s)</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s) 수신됨</item>
-    </plurals>
-    <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d %3$s개 파일 (%4$s) 수신 중…</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개 이미지</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개 이미지 수신됨</item>
-    </plurals>
-    <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개 이미지 수신 중…</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상 수신됨</item>
-    </plurals>
-    <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개의 이미지 및 동영상 수신 중…</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개 파일</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개 파일 수신됨</item>
-    </plurals>
-    <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개 파일 수신 중…</item>
+    <plurals name="search_title_ai">
+        <item quantity="other">%d개 항목 발견됨</item>
     </plurals>
     <plurals name="send_processing_files_error">
         <item quantity="other">공유 실패, 아직 %d장 사진 처리 중…</item>
     </plurals>
     <plurals name="send_too_many_files_error">
         <item quantity="other">전송에 최대 %d개 항목 선택 가능</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개 동영상</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개 동영상 수신됨</item>
-    </plurals>
-    <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개 동영상 수신 중…</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s)</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s) 수신됨</item>
-    </plurals>
-    <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">%1$s(으)로부터 %2$d개 압축파일 (%3$s) 수신 중…</item>
     </plurals>
     <plurals name="share_album_detail_photo_count">
         <item quantity="other">%d개 사진 업로드됨</item>
@@ -505,6 +478,15 @@
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d개 파일</item>
+    </plurals>
+    <plurals name="video_editor_component_hint_text">
+        <item quantity="other">%d개의 동영상 세그먼트 선택</item>
+    </plurals>
+    <plurals name="video_editor_component_imageview_content_description">
+        <item quantity="other">동영상 슬롯 %1$d, %2$s초 또는 그 이상의 동영상 추가 대기 중</item>
+    </plurals>
+    <plurals name="video_editor_component_next_step_disabled_content_description">
+        <item quantity="other">계속하시려면 %d개 이상의 동영상을 추가하십시오</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d개 동영상</item>

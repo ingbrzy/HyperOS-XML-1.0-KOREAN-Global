@@ -63,7 +63,7 @@
     <string name="account_user_id">Xiaomi 계정 ID</string>
     <string name="account_user_name">이름</string>
     <string name="account_user_name_dialog_title">사용자 이름 입력</string>
-    <string name="account_user_other_info">더 많은 출처</string>
+    <string name="account_user_other_info">더 많은 정보</string>
     <string name="account_user_phone">복구 전화</string>
     <string name="account_user_phone_show">전화: %s</string>
     <string name="account_user_region">지역</string>
@@ -93,18 +93,14 @@
     <string name="binded">연결됨</string>
     <string name="binded_description" formatted="false">"%s은(는) Xiaomi 계정에 연결되어 있습니다.
 %s을(를) 사용하여 Xiaomi 계정에 로그인하실 수 있습니다."</string>
-    <string name="bottomsheet_action_expand_halfway">반만 펼치기</string>
     <string name="button_agree">동의</string>
     <string name="button_close">닫기</string>
     <string name="button_refuse">동의하지 않음</string>
     <string name="button_unbind">연결 해제</string>
     <string name="cancel">취소</string>
     <string name="change_password">비밀번호 변경</string>
-    <string name="character_counter_content_description">입력된 글자 %1$d/%2$d</string>
-    <string name="character_counter_overflowed_content_description">글자 수 제한이 초과되었습니다(%1$d/%2$d).</string>
     <string name="check_apk_update">업데이트 확인</string>
     <string name="child_account_system_ad_disable_hint">이 기능은 자녀 계정에서 사용할 수 없습니다</string>
-    <string name="clear_text_end_icon_content_description">텍스트 삭제</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="close">닫기</string>
     <string name="close_drawer">탐색 메뉴 닫기</string>
@@ -208,13 +204,11 @@
     <string name="eras_ad">서기</string>
     <string name="eras_bc">기원전</string>
     <string name="error_dup_binded_email">이 이메일 주소가 이미 다른 Xiaomi 계정과 관련되어 있습니다.</string>
-    <string name="error_icon_content_description">오류</string>
     <string name="error_invalid_bind_address">입력한 이메일 주소가 올바르지 않습니다</string>
     <string name="evening">오후</string>
     <string name="exceed_binded_phone_times_notice">이 전화번호는 이미 다른 Xiaomi 계정과 연결되어 있습니다.</string>
     <string name="exit">나가기</string>
     <string name="expand_button_title">고급</string>
-    <string name="exposed_dropdown_menu_content_description">드롭다운 메뉴 표시</string>
     <string name="facebook">Facebook</string>
     <string name="facebook_login">Facebook 로그인</string>
     <string name="failed_dup_secure_phone_number">이 전화번호는 이미 다른 Xiaomi 계정과 연결되어 있습니다</string>
@@ -341,7 +335,6 @@
     <string name="help_center">도움말</string>
     <string name="i_agree">확인</string>
     <string name="i_agree_continue">동의</string>
-    <string name="icon_content_description">대화상자 아이콘</string>
     <string name="identity">식별</string>
     <string name="in_progress">진행 중</string>
     <string name="inconsistent_pwd">비밀번호 일치하지 않음</string>
@@ -350,7 +343,6 @@
     <string name="input_new_pwd">새 비밀번호 입력</string>
     <string name="input_ps">비밀번호 입력</string>
     <string name="io_error_title">네트워크를 확인하십시오</string>
-    <string name="item_view_role_description">탭</string>
     <string name="just_a_second">잠시만 기다려주십시오…</string>
     <string name="keep_phone_ticket_login">인증 코드로 로그인</string>
     <string name="kr_license_desc">귀하는 Xiaomi 계정 및 Xiaomi Cloud 서비스 사용 전, 저희의 이용자 약관 및 개인 정보 보호 정책에 동의하셔야 합니다.</string>
@@ -370,18 +362,6 @@
     <string name="login_with_other">더 많은 옵션</string>
     <string name="logout_account">로그아웃</string>
     <string name="logout_failed">로그아웃할 수 없습니다</string>
-    <string name="material_clock_toggle_content_description">오전 또는 오후를 선택하세요.</string>
-    <string name="material_hour_selection">시간 선택</string>
-    <string name="material_hour_suffix">%1$s시 정각</string>
-    <string name="material_minute_selection">분 선택</string>
-    <string name="material_minute_suffix">%1$s분</string>
-    <string name="material_timepicker_am">오전</string>
-    <string name="material_timepicker_clock_mode_description">시간 입력을 위해 시계 모드로 전환합니다.</string>
-    <string name="material_timepicker_hour">시간</string>
-    <string name="material_timepicker_minute">분</string>
-    <string name="material_timepicker_pm">오후</string>
-    <string name="material_timepicker_select_time">시간 선택</string>
-    <string name="material_timepicker_text_input_mode_description">시간 입력을 위해 텍스트 입력 모드로 전환합니다.</string>
     <string name="mi_account">내 계정</string>
     <string name="mi_health">Xiaomi 건강</string>
     <string name="midnight">야간</string>
@@ -398,6 +378,7 @@
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
@@ -452,38 +433,6 @@
     <string name="month_september_shortest">9월</string>
     <string name="more">더 보기</string>
     <string name="morning">아침</string>
-    <string name="mtrl_badge_numberless_content_description">새 알림</string>
-    <string name="mtrl_chip_close_icon_content_description">%1$s 삭제</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">새 알림 %1$d개 초과</string>
-    <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
-    <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
-    <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
-    <string name="mtrl_picker_date_header_title">날짜 선택</string>
-    <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
-    <string name="mtrl_picker_day_of_week_column_header">요일 열: %1$s</string>
-    <string name="mtrl_picker_invalid_format">형식이 잘못되었습니다.</string>
-    <string name="mtrl_picker_invalid_format_example">예: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">%1$s 사용</string>
-    <string name="mtrl_picker_invalid_range">날짜 범위가 잘못되었습니다.</string>
-    <string name="mtrl_picker_navigate_to_year_description">%1$s년으로 이동</string>
-    <string name="mtrl_picker_out_of_range">%1$s은(는) 범위를 벗어난 날짜입니다.</string>
-    <string name="mtrl_picker_range_header_only_end_selected">시작일~%1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s~종료일</string>
-    <string name="mtrl_picker_range_header_selected">%1$s~%2$s</string>
-    <string name="mtrl_picker_range_header_title">기간 선택</string>
-    <string name="mtrl_picker_range_header_unselected">시작일~종료일</string>
-    <string name="mtrl_picker_save">저장</string>
-    <string name="mtrl_picker_text_input_date_hint">날짜</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">종료일</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">시작일</string>
-    <string name="mtrl_picker_text_input_day_abbr">일</string>
-    <string name="mtrl_picker_text_input_month_abbr">월</string>
-    <string name="mtrl_picker_text_input_year_abbr">년</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">캘린더 입력 모드로 전환</string>
-    <string name="mtrl_picker_toggle_to_day_selection">탭하여 요일 선택으로 전환</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">텍스트 입력 모드로 전환</string>
-    <string name="mtrl_picker_toggle_to_year_selection">탭하여 연도 선택으로 전환</string>
     <string name="multi_user_not_show_sync_activity_message_1">기본 공간과 같은 Xiaomi 계정으로 로그인하고 계신 것 같습니다.</string>
     <string name="multi_user_not_show_sync_activity_message_2">모든 데이터가 보조 공간에 동기화되는 것을 방지하기 위해 클라우드 동기화를 켜지 마십시오.</string>
     <string name="multi_user_not_show_sync_activity_title">클라우드 동기화를 켜지 마십시오</string>
@@ -820,7 +769,6 @@
     <string name="passport_wrong_phone_number_format">입력한 전화번호의 형식이 올바르지 않습니다.</string>
     <string name="passport_wrong_vcode">입력한 코드가 올바르지 않습니다.</string>
     <string name="passport_wrong_voice">입력한 코드가 올바르지 않습니다.</string>
-    <string name="password_toggle_content_description">비밀번호 표시</string>
     <string name="password_view_hide_password">비밀번호 숨기기</string>
     <string name="password_view_show_password">비밀번호 표시</string>
     <string name="permission_group_contacts">연락처</string>
@@ -982,7 +930,7 @@
 %2$d. 비밀번호를 재설정할 수 없거나 누군가가 기기를 잠궜다면 i.mi.com에서 잠금을 해제하십시오.
 %3$d. 언락 코드: %4$s"</string>
     <string name="update_apk_version_later">지금 안 함</string>
-    <string name="update_apk_version_now">업데이트</string>
+    <string name="update_apk_version_now">설치</string>
     <string name="update_email_address_dialog_message">업데이트하기 전 신분 인증이 요구됩니다.</string>
     <string name="update_email_address_dialog_title">이메일 업데이트</string>
     <string name="update_phone_notice">보안 설정 변경</string>
@@ -994,7 +942,6 @@
     <string name="user_agreement_read_phone_permission_desc">전화번호를 사용하여 로그인</string>
     <string name="user_agreement_read_phone_permission_title">전화번호 읽기</string>
     <string name="user_agreement_use_account_msg">Xiaomi 계정은 Xiaomi가 제공하는 모든 서비스에 접근할 수 있게 해줍니다.</string>
-    <string name="user_agreement_wifi_permission_title">Wi-Fi 켜기 또는 끄기</string>
     <string name="user_agreement_wlan_permission_desc">보안 문제와 관련된 로그인 환경을 확인하기 위해</string>
     <string name="user_agreement_wlan_permission_title_china">Wi-Fi 켜기 또는 끄기</string>
     <string name="user_avatar_update_title">프로필 사진 변경</string>

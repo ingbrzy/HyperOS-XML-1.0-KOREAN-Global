@@ -478,6 +478,7 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -537,6 +538,7 @@
     <string name="note_write_hint">쓰기 시작</string>
     <string name="notealert_enter">메모 열기</string>
     <string name="notealert_ok">무시</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">메모는 시스템 앱입니다. 제거하신 후에는 이 앱을 사용할 수 없게 됩니다.</string>
     <string name="notes_description_title">메모를 제거하시겠습니까?</string>
     <string name="notification_content_add_todo_from_other_app">새 업무가 추가되었습니다. 탭하여 확인하십시오.</string>

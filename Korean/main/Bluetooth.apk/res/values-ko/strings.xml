@@ -56,6 +56,9 @@
     <string name="bluetooth_sap_notif_message">클라이언트가 연결 해제하도록 요청하시겠습니까?</string>
     <string name="bluetooth_sap_notif_ticker">블루투스 SIM 액세스</string>
     <string name="bluetooth_sap_notif_title">블루투스 SIM 액세스</string>
+    <string name="bt_Auracast_audio_share_notification_content">탭하여 세부사항 보기</string>
+    <string name="bt_Auracast_audio_share_notification_title">이 기기에서 오디오를 브로드캐스트하는 중…</string>
+    <string name="bt_audio_share_assistant_notification_title">근처 기기의 브로드캐스트 수신 중…</string>
     <string name="bt_audio_share_notification_content">탭하여 옵션 보기</string>
     <string name="bt_audio_share_notification_title">오디오 공유 중</string>
     <string name="bt_enable_cancel">취소</string>
@@ -84,6 +87,7 @@
     <string name="call_notification_screening_text">수신 전화 검사 중</string>
     <string name="clearable_edittext_clear_description">지우기</string>
     <string name="close">닫기</string>
+    <string name="close_broadcast_audio">중지</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -259,6 +263,7 @@
     <string name="not_exist_file">파일 없음</string>
     <string name="not_exist_file_desc">"파일이 없습니다. 
 "</string>
+    <string name="notice_audio_share_classic_disconnected">오디오 공유 중지됨</string>
     <string name="notice_audio_share_disconnected">연결이 중단되어 더 이상 오디오를 공유하지 않음</string>
     <string name="notification_received">블루투스 공유: %1$s 받음</string>
     <string name="notification_received_fail">블루투스 공유: %1$s 파일이 수신되지 않았습니다.</string>
@@ -272,7 +277,9 @@
     <string name="opp_notification_group">블루투스 공유</string>
     <string name="outbound_history_title">발신 전송</string>
     <string name="outbound_noti_title">블루투스 공유: 파일 보냄</string>
+    <string name="pairing_ui_package">com.android.settings</string>
     <string name="pbap_acceptance_timeout_message">%1$s 연결 수락 제한 시간이 초과되었습니다.</string>
+    <string name="pbap_account_type">com.android.bluetooth.pbapsink</string>
     <string name="pbap_authentication_timeout_message">%1$s에 세션 키 입력 제한 시간이 초과되었습니다.</string>
     <string name="pbap_notification_group">블루투스 연락처 공유</string>
     <string name="pbap_session_key_dialog_header">블루투스 세션 키 요청</string>

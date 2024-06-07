@@ -75,6 +75,7 @@
     <string name="ad_bar_notification_setting_title">이벤트</string>
     <string name="ad_click_to_play">탭하여 재생</string>
     <string name="ad_flag_text">광고</string>
+    <string name="ad_topview_repeat_play">탭하여 다시 재생</string>
     <string name="add_local_shortcut_add">추가</string>
     <string name="add_local_shortcut_des">한 번의 탭으로 로컬 동영상 파일에 접근하시려면 홈 화면에 \"내 동영상\"을 추가하십시오.</string>
     <string name="add_search_channel_link">URL</string>
@@ -134,6 +135,7 @@
     <string name="cast_forward">앞으로</string>
     <string name="cast_forward_10">10초 앞으로</string>
     <string name="cast_forward_30">30초 앞으로</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">실시간</string>
     <string name="cast_mute">음소거</string>
     <string name="cast_notification_connected_message">%1$s에 연결됨</string>
@@ -261,7 +263,7 @@ ID:%s
     <string name="dialog_cancel">취소</string>
     <string name="dialog_clearn_content">브라우징 기록을 지우시겠습니까?</string>
     <string name="dialog_clearn_title">기록 지우기</string>
-    <string name="dialog_confirm">확인</string>
+    <string name="dialog_confirm">추가</string>
     <string name="dialog_delete_bookmarks_content">북마크를 삭제하시겠습니까?</string>
     <string name="dialog_disagree_continue">계속</string>
     <string name="dialog_disagree_info">Mi 동영상 개인 정보 보호 정책에 동의하지 않으시는 경우, 귀하는 저희의 온라인 서비스를 사용할 수 없게 되며 기기에 저장된 동영상만 시청할 수 있게 됩니다. 그래도 계속하시겠습니까?</string>
@@ -330,6 +332,8 @@ Mi 동영상은 기본 서비스를 제공하기 위해 필수 개인 정보 수
     <string name="download_unable_tip">이 항목을 다운로드할 수 없음</string>
     <string name="download_video">동영상 다운로드</string>
     <string name="downloading">다운로드 중…</string>
+    <string name="draw_ad_button_click_text">흔들거나 탭하여 열기</string>
+    <string name="draw_ad_button_slide_text">슬라이드하여 세부사항 보기</string>
     <string name="early_morning">아침</string>
     <string name="empty" />
     <string name="empty_channels">채널 관리</string>
@@ -414,14 +418,10 @@ Mi 동영상은 기본 서비스를 제공하기 위해 필수 개인 정보 수
     <string name="feedback_activity_title">피드백</string>
     <string name="feedback_contact_empty">연락처 정보 입력</string>
     <string name="feedback_contact_title">연락처 정보</string>
-    <string name="feedback_detail_input_hint">메시지를 입력하십시오</string>
-    <string name="feedback_hint">발생한 문제에 대해 설명해 주십시오.</string>
     <string name="feedback_hint_contact">휴대전화/QQ/이메일</string>
     <string name="feedback_hint_text">발생한 문제에 대해 설명해 주십시오.</string>
-    <string name="feedback_input_tip">여기서 문제에 대해 설명하시거나 제안을 제시하십시오.</string>
     <string name="feedback_net_error">제출 실패, 네트워크 설정을 확인하시고 다시 시도하십시오.</string>
     <string name="feedback_sent">제출</string>
-    <string name="feedback_success">제출 성공</string>
     <string name="feedback_success_toast">제출 성공, 귀하의 피드백 감사드립니다!</string>
     <string name="feedback_tag_title">카테고리</string>
     <string name="feedback_text_empty_toast">먼저 피드백을 작성하십시오.</string>
@@ -642,6 +642,7 @@ Mi 동영상은 기본 서비스를 제공하기 위해 필수 개인 정보 수
     <string name="hidden_channels">다음 채널들이 시작 페이지에 표시되지 않을 것입니다.</string>
     <string name="hide">숨기기</string>
     <string name="hide_video_toast">이 항목은 숨겨져 있습니다. 로컬 > 폴더 > 숨김 항목에서 숨겨진 항목을 찾고 관리하실 수 있습니다.</string>
+    <string name="hiding_dialog_ok">설정</string>
     <string name="hint_icon_ad_title">추천</string>
     <string name="hint_in_mivideo">측면 패널에서 추가 기능을 확인하실 수 있습니다</string>
     <string name="history">기록</string>
@@ -695,7 +696,6 @@ Mi 동영상은 기본 서비스를 제공하기 위해 필수 개인 정보 수
     <string name="inline_mute_click_tip">탭하여 무음 해제</string>
     <string name="input_email_address_notice">이 이메일을 사용하여 귀하의 계정을 인증하게 될 것입니다.</string>
     <string name="input_new_pwd">새 비밀번호 입력</string>
-    <string name="input_size_tips_new">최대 %d자까지 입력하실 수 있습니다</string>
     <string name="isornot_your_mi_account">이 계정이 당신의 Mi 계정입니까?</string>
     <string name="item_card_all_replies">모든 답변</string>
     <string name="item_card_continue_play">자동 재생</string>
@@ -799,7 +799,6 @@ Mi 동영상은 기본 서비스를 제공하기 위해 필수 개인 정보 수
     <string name="local_zoom_adjust_button">표시 모드 전환</string>
     <string name="lock_screen">잠금화면</string>
     <string name="login">로그인</string>
-    <string name="login_tip">로그인하여 귀하의 피드백에 대한 저희의 답변을 수신하십시오.</string>
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">로그아웃</string>
     <string name="logout_account">로그아웃</string>
@@ -887,6 +886,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="manager_request_continue">허용</string>
     <string name="manager_request_tip">다시 표시하지 않기</string>
     <string name="manager_request_title">이 파일에 접근할 수 없음</string>
+    <string name="mangotv_episode">에피소드 %d</string>
     <string name="mangotv_feature_list_title3">에피소드 %s 추가됨</string>
     <string name="mangotv_feature_more">더 보기</string>
     <string name="mangotv_feature_title1">에피소드</string>
@@ -916,11 +916,13 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
     <string name="miuix_appcompat_select_all_description">전체 선택</string>
     <string name="miuix_appcompat_select_item">항목 선택</string>
+    <string name="miuix_dialog_ok">확인</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">아래로 당겨 새로고침</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">새로고침 성공</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">새로고침 중…</string>
@@ -1016,6 +1018,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -1045,7 +1048,6 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="music_new_user_dialog_got_it">알겠습니다</string>
     <string name="music_new_user_dialog_tip">Mi 동영상에 오신 것을 환영합니다! 이 앱은 로컬 동영상 플레이어, 온라인 뮤직 및 동영상 스트리밍 서비스를 제공합니다.</string>
     <string name="my_favorite_channels">내가 즐겨찾는 채널</string>
-    <string name="my_feedback_title">내 피드백</string>
     <string name="native_body">본문</string>
     <string name="native_headline">광고 제목</string>
     <string name="native_media_view">미디어 보기</string>
@@ -1056,6 +1058,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="network_failed">네트워크에 연결할 수 없음</string>
     <string name="newyearfestival_go_to_draw_prizes">행운 추첨으로 이동</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">동영상을 시청하여 행운 추첨 참여</string>
+    <string name="next_button">다음</string>
     <string name="nick_name">별명</string>
     <string name="night">저녁</string>
     <string name="no_account">로그인되지 않음</string>
@@ -1105,6 +1108,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="online_play_start_ready_loading_tip_kb">로드 중 %.2f KB/s</string>
     <string name="online_play_start_ready_loading_tip_mb">로드 중 %.2f MB/s</string>
     <string name="online_play_title">URL 입력</string>
+    <string name="order_alphabet">A-Z</string>
     <string name="order_recently_subscribe">최근 구독</string>
     <string name="order_recently_updated">최근 업데이트</string>
     <string name="out_of_memory_background_playback_is_suspended">메모리 부족으로 인해 백그라운드 재생 일시정지됨</string>
@@ -1241,6 +1245,8 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="photoPickerNotFoundText">사용 가능한 사진 없음</string>
     <string name="pip">PIP</string>
     <string name="pip_not_supported_toast">픽처 인 픽처 기능을 사용할 수 있도록 최신 시스템 버전으로 업데이트하십시오.</string>
+    <string name="play_at_normal_speed">1배 속도로 재생 중</string>
+    <string name="play_at_speed">%.1f배 속도로 재생 중</string>
     <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">재생 목록 생성</string>
     <string name="play_list_save_dialog_title">재생 목록에 추가</string>
@@ -1412,6 +1418,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="remaining_space_not_enough">저장 공간 부족으로 다운로드를 할 수 없습니다</string>
     <string name="reminder">참고</string>
     <string name="rename">이름 변경</string>
+    <string name="rename_dialog_ok">확인</string>
     <string name="rename_word_out">파일 이름이 너무 깁니다</string>
     <string name="report">보고</string>
     <string name="report_content_dislike">폭력 또는 부적절한 행동</string>
@@ -1465,7 +1472,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="sending">전송 중…</string>
     <string name="service_error">서버 오류</string>
     <string name="set_success">변경 성공</string>
-    <string name="setting_privacy_title">Terms and conditions</string>
+    <string name="setting_privacy_title">이용 약관</string>
     <string name="settings_inline_auto_play">항상 자동 재생</string>
     <string name="settings_inline_auto_play_close">자동 재생 꺼짐</string>
     <string name="settings_inline_auto_play_tip_close_forever">항상 끄기</string>
@@ -1480,6 +1487,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="shake_to_open_ad">흔들어서 더 알아보기</string>
     <string name="share">공유</string>
     <string name="share_text_before_link">Mi 동영상에서 멋진 동영상을 무료로 시청하고 다운 받으실 수 있습니다</string>
+    <string name="share_title">공유</string>
     <string name="share_ugc_waitting">링크 생성 중…</string>
     <string name="shorts_assemble_ad_recommend">추천</string>
     <string name="show_the_location">알림 유형</string>
@@ -1494,6 +1502,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="slide_or_click_to_open_ad">슬라이드 또는 탭하여 더 알아보기</string>
     <string name="slide_save_message">동영상 생성 중…</string>
     <string name="slide_to_open_ad">슬라이드하여 더 알아보기</string>
+    <string name="small_mango_play_next_episode">다음 에피소드</string>
     <string name="small_video_load_more_hint">위로 스와이프하여 더 많은 동영상 재생</string>
     <string name="small_video_report">신고</string>
     <string name="small_video_report_dialog_title">이유를 선택하십시오</string>
@@ -1506,9 +1515,9 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="sns_sign_in">기타 로그인 방식</string>
     <string name="source">"출처: "</string>
     <string name="start_download_tip">대기열에 추가되었습니다. 프로필 > 다운로드에서 진행 과정을 확인하십시오.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">SD 카드</string>
     <string name="storage_internal_sdcard">내부 저장소</string>
-    <string name="submit">제출</string>
     <string name="subscribe">구독</string>
     <string name="subscribe_author_recommend_btn">구독</string>
     <string name="subscribe_author_recommend_title">구독하여 해당 크리에이터의 최신 동영상 확인</string>
@@ -1528,6 +1537,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="sunday_short">일</string>
     <string name="sunday_shortest">일</string>
     <string name="sure_to_logout">지금 로그아웃 하시겠습니까?</string>
+    <string name="swipe_to_exit">다시 스와이프하여 나가기</string>
     <string name="switch_ratio_pause">재생 속도 불안정, 기본 속도로 전환합니다.</string>
     <string name="sync_favorites_limit_new">즐겨찾기에 %d개 이상의 동영상이 있는 경우에 저희는 동기화를 계속 진행하기 위해 일부 이전 동영상을 삭제해야 합니다.</string>
     <string name="sync_favorites_message">이 기기의 즐겨찾기 항목을 계정에 동기화하시겠습니까? 더 이상 사용할 수 없는 항목은 제거될 것입니다.</string>
@@ -1654,7 +1664,6 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="toast_incentive_redeem_fail_short_of_storage_2002">이 보상은 현재 사용할 수 없습니다. 나중에 다시 시도하십시오.</string>
     <string name="toast_m3u8_download_path_tip">m3u8 형식 콘텐츠의 다운로드 경로를 변경할 수 없음</string>
     <string name="toast_play_error_tip">이 파일을 재생할 수 없음</string>
-    <string name="toast_request_too_frequently">그렇게 빠르지 않습니다!</string>
     <string name="toast_share_failed">공유 실패, 1-2분 정도 기다리신 후 다시 시도하십시오.</string>
     <string name="today">오늘</string>
     <string name="tomorrow">내일</string>
@@ -1688,6 +1697,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="tt_count_down_view">건너뛰기</string>
     <string name="tt_dislike_header_tv_back">돌아가기</string>
     <string name="tt_dislike_header_tv_title">선택</string>
+    <string name="tt_display_error">표시 오류</string>
     <string name="tt_error_access_method_pass">Illegal access method</string>
     <string name="tt_error_ad_type">Illegal ad type</string>
     <string name="tt_error_adtype_differ">Ad type error</string>
@@ -1758,6 +1768,8 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
     <string name="tt_splash_not_have_cache_error">No splash cache</string>
     <string name="tt_splash_skip_tv">건너뛰다</string>
+    <string name="tt_suggestion_commit">제출</string>
+    <string name="tt_suggestion_description">표시 오류에 대한 설명을 입력하고 제출 버튼을 클릭하세요. 또한 문제 해결을 지원하기 위해 광고 크리에이티브가 Pangle에 다시 전송됩니다.</string>
     <string name="tt_sys_error">System error</string>
     <string name="tt_tip">신속한</string>
     <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
@@ -1785,9 +1797,6 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="tuesday">화요일</string>
     <string name="tuesday_short">화</string>
     <string name="tuesday_shortest">화</string>
-    <string name="type_content">콘텐츠</string>
-    <string name="type_issue">문제</string>
-    <string name="type_suggestion">제안</string>
     <string name="ugc_no_net">네트워크에 연결할 수 없습니다. 네트워크 설정을 확인하시고 다시 시도하십시오.</string>
     <string name="ui_common_title_back">뒤로</string>
     <string name="unknow">알 수 없음</string>
@@ -1812,7 +1821,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="v_menu_hide">숨기기</string>
     <string name="v_more">더 보기</string>
     <string name="v_next">다음</string>
-    <string name="v_ok">확인</string>
+    <string name="v_ok">다음</string>
     <string name="v_online_play">온라인 스트리밍</string>
     <string name="v_pw_need_update_app">모든 기능 사용을 위해 Mi 동영상 업데이트</string>
     <string name="v_save">저장</string>
@@ -1823,6 +1832,7 @@ Mi 동영상이 모든 동영상 파일에 접근 및 재생할 수 있도록 �
     <string name="video_download_fail">동영상 다운로드 실패</string>
     <string name="video_download_fail_hint">다운로드 실패</string>
     <string name="video_download_floating_guide">무료 동영상 다운로드</string>
+    <string name="video_download_folder">다운로드된 동영상</string>
     <string name="video_download_folder_title">Mi 동영상 다운로드</string>
     <string name="video_download_forbidden">이 웹사이트에서 다운로드할 수 없음</string>
     <string name="video_download_login_guide">동영상 다운로드를 위해 %s으로 로그인</string>

@@ -1816,6 +1816,7 @@ aptX 적응: 코덱 모드"</string>
 위에 서술된 작업을 완료하신 경우에는 Mi 계정을 다시 추가해 주십시오; 그렇지 않으면, 기기의 잠금을 해제할 수 없게 됩니다."</string>
     <string name="bootloader_tips_ok">알겠습니다</string>
     <string name="bootloader_tips_warning">네트워크의 연결 해제, Mi 계정 로그아웃, 공장초기화 실행, 시스템 데이터 제거를 하지마십시오.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">추가 버튼의 기능</string>
     <string name="bottomsheet_action_expand_halfway">반만 펼치기</string>
     <string name="breathing_light_color_menu_title">표시등 색상</string>
@@ -2911,6 +2912,7 @@ CA 인증서를 설치하면 인증서 소유자가 내가 이용하는 웹사�
     <string name="dialog_wifi_context">기기 설정을 위해 인터넷 연결이 요구됩니다. Wi-Fi에 연결되지 않은 경우에는 모바일 데이터가 사용될 것입니다. 모바일 데이터를 사용하시면 부가 요금이 발생할 수 있습니다. 그래도 모바일 데이터를 사용하시겠습니까?</string>
     <string name="dialog_wifi_title">모바일 데이터 사용</string>
     <string name="dialog_yes">네</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">참고: 재부팅 후 장치 잠금을 해제할 때까지 해당 앱을 시작할 수 없습니다.</string>
     <string name="disable_overlays">HW 오버레이 사용 안함</string>
     <string name="disable_overlays_summary">화면 합성 목적으로 항상 GPU 사용</string>
@@ -2967,6 +2969,9 @@ CA 인증서를 설치하면 인증서 소유자가 내가 이용하는 웹사�
     <string name="display_cutout_emulation">디스플레이 컷아웃</string>
     <string name="display_cutout_emulation_keywords">디스플레이 컷아웃, 노치</string>
     <string name="display_dashboard_summary">어두운 테마, 글꼴 크기, 밝기</string>
+    <string name="display_notification_icon_0">없음</string>
+    <string name="display_notification_icon_1">%d 아이콘</string>
+    <string name="display_notification_icon_3">%d 아이콘</string>
     <string name="display_prompt_confirm">알겠습니다</string>
     <string name="display_settings">디스플레이</string>
     <string name="display_settings_new">디스플레이 &amp; 밝기</string>
@@ -2997,6 +3002,7 @@ CA 인증서를 설치하면 인증서 소유자가 내가 이용하는 웹사�
     <string name="dndm_auto_button_title">방해금지 시간 반복</string>
     <string name="dndm_auto_setting_group">예약됨</string>
     <string name="dndm_auto_time_setting">시간 설정</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">종료 시간</string>
     <string name="dndm_auto_time_turn_off_title">방해금지 자동으로 끄기</string>
     <string name="dndm_auto_time_turn_on">시작 시간</string>
@@ -4708,6 +4714,7 @@ Xiaomi Cloud를 여시고 항목을 복구하십시오."</string>
     <string name="lights_title">LED 라이트</string>
     <string name="line_breaking_summary">단락 줄 바꿈 최적화</string>
     <string name="line_breaking_title">텍스트 최적화</string>
+    <string name="link_speed">%1$dMbps</string>
     <string name="link_turbo_prompt">이 페이지의 Wi-Fi 연결 속도 가속을 위해 사용된 데이터량 통계가 표시됩니다. 이러한 통계는 모바일 데이터 사용량을 완전히 반영하지는 않습니다.</string>
     <string name="link_turbo_settings_all_app_display_loading">잠시만 기다려주십시오…</string>
     <string name="link_turbo_settings_all_app_reach_max">최대 15개의 앱을 선택하실 수 있습니다</string>
@@ -5315,6 +5322,7 @@ PIN을 설정하십시오.
     <string name="memory_usage">메모리 사용량</string>
     <string name="memory_usage_apps">앱에서 사용한 메모리</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{지난 {time} 동안 1개 앱에서 메모리를 사용했습니다.}other{지난 {time} 동안 #개 앱에서 메모리를 사용했습니다.}}</string>
+    <string name="memory_use_running_format">%1$s/%2$s</string>
     <string name="memory_use_summary">지난 3시간 동안 평균 메모리 사용량: %1$s</string>
     <string name="memorycard_calculating">계산 중…</string>
     <string name="memtag_footer">고급 메모리 보호를 켜거나 끄려면 기기를 다시 시작해야 합니다. 켜져 있으면 기기 성능이 저하될 수 있습니다.</string>
@@ -6071,6 +6079,7 @@ PIN을 설정하십시오.
     <string name="nfc_more_details">자세히 알아보기</string>
     <string name="nfc_more_title">더보기…</string>
     <string name="nfc_notification_mode_title">NFC 카드 판독 알림</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">기본으로 설정</string>
     <string name="nfc_payment_btn_text_update">업데이트</string>
     <string name="nfc_payment_default">기본 결제 앱</string>
@@ -6667,6 +6676,7 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="power_cell">모바일 네트워크</string>
     <string name="power_center">배터리 최적화</string>
     <string name="power_charge_remaining">%1$s 후 완충</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s: %2$s 후 충전 완료</string>
     <string name="power_charging_future_paused">%1$s - 충전 최적화됨</string>
     <string name="power_charging_limited">%1$s - 충전 최적화됨</string>
@@ -6723,6 +6733,7 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="power_remaining_less_than_duration_only">%1$s 미만 남음</string>
     <string name="power_remaining_more_than_subtext">%1$s 이상 남음(%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">%1$s 이상 남음</string>
+    <string name="power_remaining_settings_home_page">%1$s, %2$s</string>
     <string name="power_screen">화면</string>
     <string name="power_settings_title">시스템 성능</string>
     <string name="power_suggestion_battery_run_out">예상 배터리 종료 시간: %1$s</string>
@@ -6975,6 +6986,7 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="privileged_action_disable_sub_dialog_title">%1$s을(를) 사용 중지하시겠습니까?</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">SIM을 사용 중지하시겠습니까?</string>
     <string name="process_dex2oat_label">앱 최적화</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="process_network_tethering">테더링</string>
     <string name="process_provider_in_use_description">제공업체(%1$s)를 사용 중입니다.</string>
@@ -7434,19 +7446,14 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">자동으로 시력보호 모드를 사용하는 앱 목록 업데이트</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">자동으로 업데이트</string>
     <string name="screen_paper_texture">질감</string>
-    <string name="screen_pinning_description">"앱을 고정하면 고정된 앱을 통해 다른 앱이 열리고 개인 정보가 표시될 수 있습니다. 
+    <string name="screen_pinning_description">고정된 앱은 기타 앱을 열고 개인 정보에 접근할 수 있습니다</string>
+    <string name="screen_pinning_dialog_message">"고정된 앱이 수행할 수 있는 작업:
 
-앱 고정을 사용하려면 다음 단계를 따르세요. \u0009
-1. 앱 고정을 사용 설정합니다. \u0009
-2. 최근 사용을 엽니다. \u0009
-3. 화면 상단의 앱 아이콘을 탭한 후 고정을 탭합니다."</string>
-    <string name="screen_pinning_dialog_message">"앱이 고정되었을 때 다음 사항이 적용됩니다. 
+• 개인 정보 접근
+(예: 연락처 및 이메일)
+• 기타 앱 실행
 
-•\u0009 개인 데이터가 표시될 수 있습니다.
-\u0009\u0009(연락처, 이메일 내용 등) 
-•\u0009 고정된 앱을 통해 다른 앱이 열릴 수 있습니다. 
-
-신뢰할 수 있는 상대에게만 앱 고정을 사용하세요."</string>
+이 기기를 다른 사람과 공유하실 시에는 이 기능을 주의하여 사용하십시오."</string>
     <string name="screen_pinning_guest_user_description">"앱을 고정하면 고정된 앱을 통해 다른 앱이 열리고 개인 정보가 표시될 수 있습니다. 
 
 기기를 다른 사람과 안전하게 공유하고 싶다면 게스트 사용자를 대신 사용해 보세요. 
@@ -7455,10 +7462,11 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
 1. 앱 고정을 사용 설정합니다. \u0009
 2. 최근 사용을 엽니다. \u0009
 3. 화면 상단의 앱 아이콘을 탭한 후 고정을 탭합니다."</string>
+    <string name="screen_pinning_summary">고정된 앱은 고정을 해제할 때까지 최근 앱에 남아 있습니다</string>
     <string name="screen_pinning_switch_off_text">사용 중지</string>
     <string name="screen_pinning_switch_on_text">사용 설정</string>
-    <string name="screen_pinning_title">앱 고정</string>
-    <string name="screen_pinning_unlock_none">화면 고정 해제 시 기기 잠금</string>
+    <string name="screen_pinning_title">앱 고정 허용</string>
+    <string name="screen_pinning_unlock_none">고정을 해제하려면 화면 잠금 인증</string>
     <string name="screen_pinning_unlock_password">고정 해제 이전에 비밀번호 요청</string>
     <string name="screen_pinning_unlock_pattern">고정 해제 시 잠금 해제 패턴 요청</string>
     <string name="screen_pinning_unlock_pin">고정 해제 이전에 PIN 요청</string>
@@ -7769,6 +7777,7 @@ OTG는 10분 동안 미사용 시 자동으로 꺼집니다."</string>
     <string name="security_encryption_attention_3">새로운 화면 잠금을 설정하셔야 할 것입니다.</string>
     <string name="security_encryption_attention_4">화면 잠금을 잘 기억해 주십시오. 그렇지않은 경우 기기의 모든 데이터가 지워지는 공장초기화를 하셔야 할 수도 있습니다.</string>
     <string name="security_encryption_attention_info">계정, 설정, 다운로드된 앱과 데이터, 미디어, 기타 파일 등을 암호화할 수 있습니다.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">중요</string>
     <string name="security_encryption_close_dialog_info">화면 잠금을 사용하는 기기 암호화를 사용하지 않으신다면 일부 Google 서비스를 사용할 수 없을 것입니다.</string>
     <string name="security_encryption_close_dialog_title">기본 시스템 암호화로 돌아가기</string>
@@ -8363,6 +8372,7 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_anyway_button_label">건너뛰기</string>
     <string name="skip_label">건너뛰기</string>
@@ -8580,8 +8590,10 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="status_bar_app_enable_keyguard">잠금화면</string>
     <string name="status_bar_app_enable_message">배지</string>
     <string name="status_bar_carrier_settings_no_sim_card">SIM 카드 없음</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">알림 &amp; 상태 바</string>
     <string name="status_bar_settings_all_app_display_loading">잠시만 기다려주십시오…</string>
+    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
     <string name="status_bar_settings_manage_notification">앱 알림</string>
     <string name="status_bar_settings_notification_bar">알림 바</string>
     <string name="status_bar_settings_status_bar">상태 바</string>
@@ -8904,6 +8916,7 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_divider_text">", "</string>
     <string name="summary_quick_control_all_devices">제어 센터에 근처의 TV, 스피커 및 자동차에 대한 제어 표시</string>
+    <string name="summary_range_symbol_combination">%1$s~%2$s</string>
     <string name="sunday">일요일</string>
     <string name="sunday_first_day_of_week">일요일</string>
     <string name="sunday_short">일</string>
@@ -9187,6 +9200,7 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="title_quick_control_all_devices">근처의 기기를 위한 제어 표시</string>
     <string name="title_regional_pref_footer">지역 설정을 지원하지 않는 앱에서는 기본 언어 설정이 사용됩니다</string>
     <string name="title_show_notification_icon">알림 아이콘 표시</string>
+    <string name="title_show_notification_icon_count">알림 아이콘 표시 수량</string>
     <string name="title_smart_device_control">스마트 기기 제어</string>
     <string name="title_special_features_health_global">심박수</string>
     <string name="title_unavailable_locale">%s 사용할 수 없음</string>
@@ -9820,6 +9834,7 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="vision_settings_title">보기 설정</string>
     <string name="voice_access">음성 제어</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">음성</string>
     <string name="voice_helper_title">보이스 어시스턴트</string>
     <string name="voice_input_output_settings">음성 입력 &amp; 출력</string>
@@ -10985,9 +11000,11 @@ SIM으로 전환해도 %1$s 서비스는 취소되지 않습니다."</string>
     <string name="zone_auto_summaryOff">통신사에 의해 제공된 시간대 사용</string>
     <string name="zone_auto_summaryOn">통신사에 의해 제공된 시간대 사용</string>
     <string name="zone_auto_title">자동으로 시간대 설정</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s(%2$s)</string>
     <string name="zone_info_footer_first_sentence">%1$s을 사용합니다. %2$s</string>
     <string name="zone_info_footer_no_dst">%1$s을(를) 사용합니다. 일광 절약 시간은 적용되지 않습니다.</string>
     <string name="zone_info_footer_second_sentence">%1$s은 %2$s에 시작됩니다.</string>
+    <string name="zone_info_offset_and_name">%2$s(%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">알파벳순으로 정렬</string>
     <string name="zone_list_menu_sort_by_timezone">시간대순으로 정렬</string>
     <string name="zone_menu_by_offset">협정 세계시 기준으로 선택</string>

@@ -28,7 +28,7 @@
         <item quantity="other">%d분 전</item>
     </plurals>
     <plurals name="accessibility_auto_night_tip">
-        <item quantity="other">%d-second timer for Night mode</item>
+        <item quantity="other">야간 모드를 위한 %d초 타이머</item>
     </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">포커스됨, %d개의 얼굴 감지됨</item>
@@ -41,12 +41,6 @@
     </plurals>
     <plurals name="accessibility_vv_duartion">
         <item quantity="other">기간: %d초</item>
-    </plurals>
-    <plurals name="cinemaster_toast_camera_overflow">
-        <item quantity="other">카메라 최대 %d대를 동일한 네트워크에 연결 가능</item>
-    </plurals>
-    <plurals name="cinemaster_toast_monitor_overflow">
-        <item quantity="other">모니터 최대 %d대를 동일한 네트워크에 연결 가능</item>
     </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">한 번에 최대 %d개의 클론 생성 가능</item>
@@ -65,9 +59,6 @@
     </plurals>
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d초</item>
-    </plurals>
-    <plurals name="friend_mode_display_first_dialog">
-        <item quantity="other">타이머 (%1$d초)를 켰습니다. 사진이 이 기기로 전송됩니다.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30분 전</item>
@@ -95,9 +86,6 @@
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d분 전</item>
-    </plurals>
-    <plurals name="number_unit_seconds_split">
-        <item quantity="other">%d초</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">기기의 발열이 심합니다. 카메라가 %d초 후에 종료될 것입니다. 사진 또는 동영상이 자동으로 저장될 것입니다.</item>

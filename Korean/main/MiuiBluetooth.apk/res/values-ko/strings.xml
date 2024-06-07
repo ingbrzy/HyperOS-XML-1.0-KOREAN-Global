@@ -88,6 +88,7 @@
     <string name="fast_connect_device_battery">배터리</string>
     <string name="fast_connect_device_box">케이스</string>
     <string name="fast_connect_device_box_name">%1$s 박스</string>
+    <string name="fast_connect_device_button_audio_share_fail">알겠습니다</string>
     <string name="fast_connect_device_connect_cancel">취소</string>
     <string name="fast_connect_device_connect_ok">연결</string>
     <string name="fast_connect_device_connect_retry">재시도</string>
@@ -96,6 +97,12 @@
     <string name="fast_connect_device_headset_l">왼쪽</string>
     <string name="fast_connect_device_headset_r">오른쪽</string>
     <string name="fast_connect_device_headset_reset">케이스의 버튼 길게 누르기</string>
+    <string name="fast_connect_device_message_audio_share">이 기기의 오디오를 이어폰과 공유</string>
+    <string name="fast_connect_device_replace_current_device">기기 전환</string>
+    <string name="fast_connect_device_start_audio_share">공유</string>
+    <string name="fast_connect_device_title_audio_share">%1$s로 함께 듣기</string>
+    <string name="fast_connect_device_title_audio_share_fail">%1$s 연결 실패. 다시 시도하십시오.</string>
+    <string name="fast_connect_device_title_audio_share_success">%1$s로 함께 듣는 중</string>
     <string name="fast_connect_device_title_connect_fail">%1$s 연결 실패</string>
     <string name="fast_connect_device_title_connecting">연결 중…</string>
     <string name="fast_connect_device_title_find_headset">%1$s 찾기</string>

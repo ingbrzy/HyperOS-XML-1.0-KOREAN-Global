@@ -122,10 +122,14 @@ mm"</string>
     <string name="miuix_appcompat_action_mode_title_empty">항목 선택</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">더 보기</string>
     <string name="miuix_appcompat_cancel_description">취소</string>
+    <string name="miuix_appcompat_cloud_state_disabled">클라우드 동기화 꺼짐</string>
+    <string name="miuix_appcompat_cloud_state_finished">클라우드와 동기화 성공</string>
+    <string name="miuix_appcompat_cloud_state_syncing">클라우드와 동기화 중…</string>
     <string name="miuix_appcompat_confirm_description">승인</string>
     <string name="miuix_appcompat_delete_description">삭제</string>
     <string name="miuix_appcompat_deselect_all">전체 선택 해제</string>
     <string name="miuix_appcompat_deselect_all_description">전체 선택 해제</string>
+    <string name="miuix_appcompat_edit">편집</string>
     <string name="miuix_appcompat_search_action_mode_cancel">취소</string>
     <string name="miuix_appcompat_search_input_description">검색</string>
     <string name="miuix_appcompat_select_all">모두 선택</string>
@@ -139,6 +143,11 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">결과가 더 없음</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">잠시만 기다려주십시오…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">항목 불러오기 실패</string>
+    <string name="miuix_search_action_mode_cancel">취소</string>
+    <string name="miuix_search_history_clear">검색 기록 지우기</string>
+    <string name="miuix_search_history_default_title">검색 기록</string>
+    <string name="miuix_search_recommendation_default_title">관심을 가지실만한 항목</string>
+    <string name="miuix_search_recommendation_item_del_des">삭제</string>
     <string name="monday">월요일</string>
     <string name="monday_short">월</string>
     <string name="monday_shortest">월</string>
@@ -361,6 +370,7 @@ mm"</string>
     <string name="saturday_shortest">토</string>
     <string name="search_menu_title">검색</string>
     <string name="send">전송</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">일요일</string>
     <string name="sunday_short">일</string>

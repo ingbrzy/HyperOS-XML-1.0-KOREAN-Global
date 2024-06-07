@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>남성</item>
-        <item>여성</item>
-    </string-array>
     <string-array name="exo_controls_playback_speeds">
         <item>0.25배속</item>
         <item>0.5배속</item>
@@ -35,6 +31,10 @@
         <item>과격한 관점</item>
         <item>잠재 광고</item>
         <item>좋아하지 않음</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>남성</item>
+        <item>여성</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>뒤로/앞으로 이동</item>
@@ -83,10 +83,6 @@
     <string-array name="pref_web_permissions_sub_two">
         <item>제한</item>
         <item>허용</item>
-    </string-array>
-    <string-array name="setting_swipe_up_target">
-        <item>검색</item>
-        <item>뉴스</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>삭제</item>

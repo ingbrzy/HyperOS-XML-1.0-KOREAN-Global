@@ -1223,6 +1223,7 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="monitoring_description_personal_profile_named_vpn">개인 앱은 %1$s 앱을 통해 인터넷에 연결됩니다. VPN 제공업체가 이메일, 인터넷 사용 기록 등 내 네트워크 활동을 볼 수 있습니다.</string>
     <string name="monitoring_description_two_named_vpns">이 기기는 %1$s 및 %2$s 앱을 통해 인터넷에 연결됩니다. IT 관리자가 이메일, 인터넷 사용 기록 등 내 네트워크 활동을 볼 수 있습니다.</string>
     <string name="monitoring_description_vpn_settings">VPN 설정 열기</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s에서 이 기기와 연결된 데이터에 액세스하고 앱을 관리하며 기기 설정을 변경할 수 있습니다.
 
 궁금한 점이 있으면 %2$s에 문의하세요."</string>
@@ -1422,6 +1423,8 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>&lt;font color=#a5220e>\"삭제 &amp;amp; 초기화\"&lt;/font>를 선택하신 후 기기가 재부팅될 때까지 기다려주십시오.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">데이터를 어떻게 삭제할 수 있나요?</string>
     <string name="phone_locked_string">이 기기는 잠겼습니다</string>
+    <string name="pin_toast">화면 하단에서 위로 스와이프 및 정지하여 이 앱의 고정 해제</string>
+    <string name="pin_toast_nav">이 앱의 고정을 해제하려면 돌아가기 버튼과 미리보기 버튼을 길게 누르십시오</string>
     <string name="pip_close">닫기</string>
     <string name="pip_collapse">접기</string>
     <string name="pip_edu_text">제어 메뉴에 액세스하려면 <annotation icon="home_icon">홈</annotation>을 두 번 누르세요.</string>
@@ -1823,6 +1826,8 @@ IT 관리자가 설정, 기업 액세스, 앱, 기기와 연결된 데이터, �
     <string name="status_bar_clock_date_format_12">M월d일 E</string>
     <string name="status_bar_clock_date_time_format">M월d일 E H:mm</string>
     <string name="status_bar_clock_date_time_format_12">M월d일 E a h:mm</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_ethernet">이더넷</string>
     <string name="status_bar_settings_auto_rotation">화면 자동 회전</string>
     <string name="status_bar_work">직장 프로필</string>

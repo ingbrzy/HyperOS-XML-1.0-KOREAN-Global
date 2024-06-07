@@ -182,6 +182,8 @@
     <string name="feedback_custom_hint">여기에 발생한 문제를 설명해 주십시오. 제안 사항이 있으신 경우, 더 자세하게 설명해 주시면 감사하겠습니다!</string>
     <string name="find_device">기기 찾기</string>
     <string name="find_device_dspt_provision">기기를 분실하신 경우, &lt;font color=#0097FF>%s&lt;/font>에서 기기의 위치를 찾거나, 잠그거나, 초기화할 수 있습니다. 설정에서 언제든지 이 기능을 켜거나 끌 수 있습니다.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">기기 찾기를 켜시면, 저희의 <u><a href="app://com.miui.cloudservice.gdpr.license">개인 정보 보호 정책</a></u>에 동의하시는 것입니다. 권한의 철회를 원하시는 경우, 해당 기능을 꺼주십시오.</string>
     <string name="find_device_operation_failure_rpc">RPC 오류로 작업을 실행할 수 없습니다.</string>
     <string name="find_device_permissions_footer">선택한 권한을 부여하시려면 \"권한 부여\"를 탭하십시오</string>

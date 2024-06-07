@@ -22,13 +22,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>앱 핸드오프</item>
-        <item>상호 연결/앱 핸드오프</item>
+        <item>상호 연결/앱</item>
         <item>앱 전송, 핸드오프, 전송</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>통화</item>
-        <item>상호 연결/통화</item>
-        <item>통화</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>네트워크 어시스턴트</item>

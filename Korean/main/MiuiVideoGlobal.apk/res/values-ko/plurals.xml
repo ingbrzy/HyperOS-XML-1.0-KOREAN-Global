@@ -41,9 +41,6 @@
         <item quantity="other">%d초 되감기</item>
         <item quantity="one">%d초 되감기</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">%1$d초 후 시작 페이지로 돌아가기…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">30분 전</item>
     </plurals>

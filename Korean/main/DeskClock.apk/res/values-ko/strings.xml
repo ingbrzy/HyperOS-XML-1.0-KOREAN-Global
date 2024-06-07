@@ -361,6 +361,7 @@
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -468,6 +469,7 @@
     <string name="shutdown_alarm_alert_title">종료 알람</string>
     <string name="shutdown_alarm_disable_summary">알람은 기기의 전원이 꺼진 후에는 울리지 않음</string>
     <string name="silent_alarm_summary">무음</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">%s 한 번만 끄기</string>
     <string name="sleep_analysis">통계</string>
     <string name="sleep_analysis_chart_date_format">MM/dd</string>
@@ -504,6 +506,7 @@
     <string name="snooze_duration_value_twenty_new">%d</string>
     <string name="star_wy_alarm_speech">Roy Wang 만나기</string>
     <string name="start">시작</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_running_notification">스톱워치</string>
     <string name="stopwatch_title">스톱워치</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

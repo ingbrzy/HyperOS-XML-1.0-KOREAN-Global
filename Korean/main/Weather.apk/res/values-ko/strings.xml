@@ -157,6 +157,7 @@
     <string name="dynamic_weather">날씨</string>
     <string name="early_morning">아침</string>
     <string name="edit_city">도시 관리</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">업데이트 중…</string>
     <string name="empty_view_net_unavailable">네트워크에 연결할 수 없음</string>
     <string name="empty_view_refresh">다시 시도</string>
@@ -266,6 +267,7 @@
     <string name="friday_short">금</string>
     <string name="friday_shortest">금</string>
     <string name="hourly_forcast_now">지금</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">MM/dd</string>
     <string name="index_item_experience_now">지금 설치</string>
     <string name="indices_title_chance_of_rain">강우확률</string>
@@ -276,7 +278,10 @@
     <string name="indices_wind_direction_north">북</string>
     <string name="indices_wind_direction_south">남</string>
     <string name="indices_wind_direction_west">서</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">자외선 지수</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">위치 서비스 켜기</string>
     <string name="location_tag">위치 찾기</string>
     <string name="manager_city_option_add_home">시작 페이지에 추가</string>
@@ -429,6 +434,7 @@
     <string name="share_button">공유</string>
     <string name="share_menu_title">공유</string>
     <string name="share_subject">공유</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">스크린샷을 찍지 못했습니다.</string>
     <string name="shortcut_short_label_24_hour_forecast">%d시간 일기예보</string>
