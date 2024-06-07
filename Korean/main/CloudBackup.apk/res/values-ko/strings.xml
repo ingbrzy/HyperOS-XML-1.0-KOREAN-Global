@@ -438,8 +438,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">기본 공간</string>
     <string name="other_device_second_space">보조 공간</string>
     <string name="page_title_more_backup_options">추가 백업 서비스</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">PC 모드에서 항목을 복구할 수 없습니다. PC 모드를 끄시고 다시 시도하십시오.</string>
     <string name="permission_to_use">권한 세부사항</string>
     <string name="pm">오후</string>

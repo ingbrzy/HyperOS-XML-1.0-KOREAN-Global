@@ -971,7 +971,6 @@
     <string name="card_main_private_space_summary">보조 공간은 2개의 기기를 사용하는 것과 같습니다.</string>
     <string name="card_main_private_space_title">보조 공간</string>
     <string name="card_main_sectool_title">도구</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">동영상 관리</string>
     <string name="card_main_whatsappclean_title">WhatsApp 클리너</string>
     <string name="card_main_xspace_action">생성</string>
@@ -1341,7 +1340,6 @@
     <string name="dynamic_performance_optimization_title">동적 성능</string>
     <string name="early_morning">아침</string>
     <string name="edit_phone_num">SIM 전화번호 편집</string>
-    <string name="ellipsis">…</string>
     <string name="email">이메일</string>
     <string name="empty" />
     <string name="empty_app">앱 없음</string>
@@ -1419,9 +1417,7 @@
     <string name="exo_download_paused_for_wifi">다운로드를 위해 Wi-Fi 연결 대기 중</string>
     <string name="exo_download_removing">다운로드 항목 삭제 중</string>
     <string name="exo_item_list">%1$s, %2$s</string>
-    <string name="exo_track_bitrate">%1$.2fMbps</string>
     <string name="exo_track_mono">모노</string>
-    <string name="exo_track_resolution">%1$d×%2$d</string>
     <string name="exo_track_role_alternate">대체</string>
     <string name="exo_track_role_closed_captions">자막</string>
     <string name="exo_track_role_commentary">논평</string>
@@ -2607,7 +2603,6 @@ SMS 전송"</string>
     <string name="menu_text_license_manager">권한</string>
     <string name="menu_text_networkassistants">데이터 사용량</string>
     <string name="menu_text_networkassistants_danger">%s 초과</string>
-    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s 남음</string>
     <string name="menu_text_networkassistants_unit_b">B</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -2616,7 +2611,6 @@ SMS 전송"</string>
     <string name="menu_text_optimize_manage">스피드 부스트</string>
     <string name="menu_text_optimize_manage_1">휴대전화 가속</string>
     <string name="menu_text_power_manager">배터리</string>
-    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">예외 목록에서 제거</string>
     <string name="menu_white">예외 목록에 추가</string>
     <string name="mi_ime_not_used">Xiaomi 인증 키보드 사용</string>
@@ -2725,7 +2719,6 @@ SMS 전송"</string>
     <string name="mtrl_picker_a11y_next_month">다음 달로 변경</string>
     <string name="mtrl_picker_a11y_prev_month">이전 달로 변경</string>
     <string name="mtrl_picker_announce_current_selection">현재 %1$s 선택됨</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">날짜 선택</string>
     <string name="mtrl_picker_date_header_unselected">선택한 날짜</string>
@@ -3493,11 +3486,6 @@ SMS 전송"</string>
     <string name="power_center_dialog_msg_top">배터리 절약이 켜져있을 때, 다음의 항목을 최적화합니다:</string>
     <string name="power_center_hints_scan_danger_result">지금 배터리 문제를 수정하실 수 있습니다.</string>
     <string name="power_center_list_item_auto_brightness">자동으로 화면 밝기 조절</string>
-    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
-    <string name="power_center_list_item_battery_health_model_voltage">%s V</string>
-    <string name="power_center_list_item_battery_health_model_volume">%s mAh</string>
-    <string name="power_center_list_item_battery_status_capacity">mAh</string>
-    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">시간</string>
     <string name="power_center_list_item_close_bluetooth">블루투스 끄기</string>
     <string name="power_center_list_item_deep_save_title">고급 설정</string>
@@ -3810,7 +3798,6 @@ SMS 전송"</string>
     <string name="pref_normal_traffic_limit">데이터 플랜 소진시</string>
     <string name="pref_open_adjust_traffic">통신사 통계 사용하여 매일 데이터 사용량 업데이트</string>
     <string name="pref_operator_not_set">통신사 설정되지않음</string>
-    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">일일 데이터 초과량</string>
     <string name="pref_package_traffic_settings">데이터 플랜</string>
     <string name="pref_pkg_begin_date">사용량 초기화 날짜</string>
@@ -4111,7 +4098,6 @@ SMS 전송"</string>
     <string name="privacy_using_record">오디오 녹음</string>
     <string name="privacyapp_number_masked_text">알림 내용 숨겨짐</string>
     <string name="privacyapp_number_unmasked_text">알림 내용을 숨길 수 있음</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">미디어 서버</string>
     <string name="process_vpnsdkmanager_label">게임 터보</string>
     <string name="promotion">Ad</string>
